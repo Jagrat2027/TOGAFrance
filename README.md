@@ -1,102 +1,82 @@
 # TOGAFrance
 
-**TOGAFrance** est une méthode nationale de transformation, inspirée du cadre TOGAF (The Open Group Architecture Framework), adaptée pour refonder les services publics français, restaurer la confiance citoyenne et transmettre une vision éthique et durable du changement.
+**TOGAFrance** is a national transformation framework, inspired by TOGAF (The Open Group Architecture Framework), and adapted to rebuild French public services, restore citizen trust, and promote an ethical and sustainable vision of change.
 
----
+## Why TOGAFrance?
 
-## Pourquoi TOGAFrance ?
-
-Depuis trop longtemps, la France accumule réformes et mesures sans vision d’ensemble. Résultat : confusion, perte de sens, décrochage citoyen.  
-**TOGAFrance** propose de transformer le chaos en cohérence, sans imposer un modèle unique. C’est un cadre lisible, adaptable, fondé sur le réel, pour reconstruire une colonne vertébrale collective.
-
----
+For too long, France has accumulated reforms and measures without an overarching vision. The result: confusion, loss of meaning, and growing citizen disengagement.  
+TOGAFrance aims to turn chaos into coherence—without imposing a single model. It offers a readable, adaptable, reality-based framework to rebuild the nation’s backbone.
 
 ## Vision
 
-Redonner à chaque citoyen, agent, élu et territoire la capacité d’agir sur la transformation de la nation, selon une méthode rigoureuse, humaine et transmissible.  
-TOGAFrance n’est pas un programme de techniciens : il est fait pour tous ceux qui veulent comprendre, participer, et reconstruire ensemble.
+Empower every citizen, civil servant, elected official, and territory to take part in transforming the nation, using a rigorous, human-centered, and transmissible method.  
+TOGAFrance is not a technocrats’ program—it is for all those who want to understand, participate, and rebuild together.
 
----
+## Core Principles
 
-## Principes fondateurs
+- **Clarity:** Everything should be understandable by a 10-year-old.
+- **Reversibility:** Nothing is permanent if it breaks the human link.
+- **Transmission:** What is created should be reusable and improvable.
+- **Real Impact:** Decisions are judged by what they change in people’s lives.
+- **Balance of Forces:** No one decides alone; everyone keeps their place in the loop.
+- **Territorial Adaptability:** Each place can adjust without betraying the spirit.
+- **Shared Memory:** Everything is documented, archived, accessible.
+- **Gentle Justice:** We repair before we punish; we help people grow rather than crush.
 
-- **Lisibilité** : Tout doit pouvoir être compris par un enfant de 10 ans.
-- **Réversibilité** : Rien n’est définitif si le lien humain est rompu.
-- **Transmission** : Ce qui est créé doit pouvoir être repris et amélioré.
-- **Impact réel** : On juge une décision à ce qu’elle change dans la vie des gens.
-- **Équilibre des forces** : Personne ne décide seul, chacun garde sa place dans la boucle.
-- **Adaptabilité territoriale** : Chaque lieu ajuste sans trahir l’esprit du cap.
-- **Mémoire partagée** : Tout est documenté, archivé, consultable.
-- **Justice douce** : On répare avant de punir, on fait grandir sans écraser.
+*[See the full list of principles in the Practical Booklet.]*
 
-[Voir la liste complète des principes dans le livret pratique.]
+## The Method in Brief
 
----
+- A clear, shared vision—rooted in real-life needs and struggles.
+- A structured framework—inspired by TOGAF, human-adapted, working through circles, control loops, and transparent methodology.
+- Public, readable, reversible documentation—for each step, commitment, and experiment.
+- Living roles—any citizen, agent, elected official, professional, or "invisible" person can become an actor, proposer, connector, guardian, or builder.
+- Pilot territories—each municipality, service, or structure can adapt the method to its reality and share its feedback.
 
-## La méthode en bref
+## Who is it for?
 
-1. **Une vision claire, partagée** – issue du vécu, des besoins et des souffrances du terrain.
-2. **Un cadre structurant** – inspiré de TOGAF, adapté à l’humain, fonctionnant par cercles, boucles de contrôle, et transparence méthodologique.
-3. **Des documents publics, lisibles, réversibles** – pour chaque étape, chaque engagement, chaque expérimentation.
-4. **Des rôles vivants** – chaque citoyen, agent, élu, professionnel ou “invisible” peut devenir acteur, proposeur, relieur, gardien ou bâtisseur.
-5. **Des territoires pilotes** – chaque commune, service ou structure peut adapter la méthode à sa réalité et transmettre son retour d’expérience.
+- Citizens who want to understand and act.
+- Elected officials seeking a human compass.
+- Public agents searching for meaning and recognition.
+- Young people who refuse to remain spectators.
+- All territories wishing to take control of their collective future.
 
----
+## Resources
 
-## Pour qui ?
+- [TOGAFrance Practical Booklet](./medias/TOGAFrance_Practical_Booklet.pdf)
+- [Open Letter to Elected Officials](./medias/Lettre_aux_elus_francais.txt)
+- [J-2027 Program](./medias/Programme.docx)
+- [Dissemination Strategy](./medias/Strategie_J-2027.pdf)
+- [Budget Overview](./medias/Chiffrage_Programme_J2027.pdf)
 
-- Les citoyens qui veulent comprendre et agir.
-- Les élus qui cherchent une boussole humaine.
-- Les agents publics en quête de sens et de reconnaissance.
-- Les jeunes qui refusent d’être spectateurs.
-- Tous les territoires désireux de redevenir maîtres de leur destin collectif.
+## Contributing
 
----
+TOGAFrance is a living project.  
+Everyone can propose tools, feedback, local adaptations, corrections, or additions to the lexicon.
 
-## Ressources
-
-- [Livret pratique TOGAFrance](./TOGAFrance_Livret_Pratique.pdf)
-- [Lettre aux élus](./Lettre_aux_elus_francais.txt)
-- [Programme J-2027](./Programme.docx)
-- [Stratégie de diffusion](./Strategie_J-2027.pdf)
-- [Chiffrage budgétaire](./Chiffrage_Programme_J2027.pdf)
-
----
-
-## Contribuer
-
-**TOGAFrance** est un projet vivant.  
-Chacun peut proposer des outils, retours, adaptations locales, corrections et ajouts au lexique.
-
-- Proposez une amélioration ou un retour terrain via une _pull request_.
-- Suggérez un nouveau livrable ou outil de suivi adapté à votre métier, territoire ou public.
-- Partagez votre expérience en Pacte Local TOGAFrance.
-
----
+- Suggest an improvement or field feedback via pull request.
+- Propose a new deliverable or monitoring tool adapted to your profession, territory, or audience.
+- Share your experience with a Local TOGAFrance Pact.
 
 ## Roadmap
 
-- Lancement officiel : **14 juillet 2025**
-- Premiers territoires pilotes : été/automne 2025
-- Ouverture de la documentation citoyenne et espace de retours : T4 2025
+- Official launch: July 14, 2025
+- First pilot territories: Summer/Fall 2025
+- Opening of citizen documentation and feedback platform: Q4 2025
+
+## License
+
+This project is under a free license: **Creative Commons BY-SA 4.0**  
+Use, modify, and reuse freely, as long as you credit the source and share under the same terms.
+
+## Contact
+
+For any questions, proposals, or requests:  
+See the [official website](https://jagrat.fr)  
+Contact: Jagrat2027
 
 ---
 
-## Licence
-
-Ce projet est placé sous licence libre : **Creative Commons BY-SA 4.0**  
-Utilisation, modification, réutilisation libre à condition de citer l’origine et de partager dans les mêmes conditions.
-
----
-
-## Contacts
-
-Pour toute question, proposition ou demande :  
-[Voir le site officiel](https://jagrat.fr)  
-Contact : [Jagrat2027](mailto:jagrat2027@gmail.com)
-
----
-
-> “Ce que nous faisons doit être juste, lisible, réversible, et possible à transmettre.”
+> "What we do must be just, readable, reversible, and possible to transmit."
 > 
-> — Extrait du livret TOGAFrance
+> — Excerpt from the TOGAFrance Booklet
