@@ -34,34 +34,55 @@ Its key principles:
 
 ---
 
-## The TOGAFrance Cycle: A Living Spiral
+## 🌀 TOGAFrance ADM Cycle
 
-The method follows a simplified interpretation of TOGAF’s ADM (Architecture Development Method), reimagined as a human-centered, iterative cycle:
+The TOGAFrance method adapts the classic TOGAF ADM into a **human-centered, iterative cycle**.  
+Each phase serves a clear purpose and leaves tangible, shareable deliverables.  
+Here is how TOGAFrance interprets the key steps of the cycle:
 
-[Vision] → [Diagnosis] → [Action Plan] → [Experimentation] → [Feedback] → [Adjustment] → back to [Vision]
+![TOGAFrance ADM Cycle](../media/ADM_TOGAFrance.png)
 
+---
 
-Each iteration strengthens the project while preserving reversibility.
+### 1. Preliminary Phase – *Prepare the ground*  
+Identify key actors, clarify intentions, and ensure ethical alignment.  
+Build trust, define what “success” means, and prepare for open collaboration.
 
-### 1. Vision  
-A shared horizon: values, needs, purpose.  
-Written in simple language, co-created with local actors.
+### 2. Vision – *Clarify the purpose*  
+Define a shared direction: why are we acting? What future are we aiming for?  
+Keep it simple, inspiring, and understandable by all (including a 10-year-old).
 
-### 2. Diagnosis  
-An honest map of strengths, dysfunctions, and gaps.  
-Tools: surveys, journey mapping, listening sessions.
+### 3. Service Architecture – *Describe the current state*  
+Map existing services, actors, needs, and dysfunctions.  
+Create a shared image of “how things work today.”
 
-### 3. Action Plan  
-Concrete priorities with 2–3 month objectives.  
-Rely on **catalogs**, **matrices**, and **role maps**.
+### 4. Opportunities & Solutions – *Recognize good practices*  
+Highlight what already works locally.  
+Spot small victories and amplify them.
 
-### 4. Experimentation  
-Tested solutions, monitored with qualitative indicators.  
-Failures are documented and considered valuable.
+### 5. Migration Planning – *Create a clear roadmap*  
+Design a realistic sequence of actions, with human-centered milestones.  
+Use catalogs, role matrices, and reversibility as structuring tools.
 
-### 5. Feedback & Adjustment  
-Results are published, challenges named, solutions adapted.  
-Each cycle improves the common memory.
+### 6. Implementation Governance – *Support the process*  
+Set up tools for local monitoring, coordination, and ethical guidance.  
+Give each actor a clear, useful role.
+
+### 7. Implementation Monitoring – *Track what happens*  
+Gather feedback from the field.  
+Celebrate successes, and identify mismatches between plan and reality.
+
+### 8. Continuous Adaptation – *Learn and improve*  
+Document lessons learned.  
+Update the architecture and share it openly, so others can learn from your path.
+
+---
+
+📝 Each phase is **reversible, co-constructive, and documented**.  
+A territory can pause or restart a phase if the human link is broken.  
+The cycle doesn’t impose — it supports.  
+
+👉 This structure helps align local action with national coherence, without killing creativity.
 
 ---
 

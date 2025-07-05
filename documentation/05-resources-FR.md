@@ -39,7 +39,7 @@ Tous les modèles sont conçus pour être lisibles, réutilisables et faciles à
 
 TOGAFrance s’appuie sur une adaptation humaine et simplifiée du **cycle ADM (Architecture Development Method)** de TOGAF, en 5 étapes vivantes :
 
-Vision → Diagnostic → Plan d’action → Expérimentation → Retour → Ajustement → Vision
+![TOGAFrance ADM Cycle](../media/ADM_TOGAFrance.png)
 
 
 Chaque phase donne lieu à des livrables définis selon un **cadre de contenu inspiré de TOGAF** (voir [Chapitre 3](./03-methode.md)).

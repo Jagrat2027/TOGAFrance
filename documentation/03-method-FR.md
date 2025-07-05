@@ -34,34 +34,56 @@ Ses principes essentiels :
 
 ---
 
-## Le cycle TOGAFrance : une spirale vivante
+## 🌀 Cycle ADM de TOGAFrance
 
-La méthode s’appuie sur une réinterprétation simplifiée de l’ADM (Architecture Development Method) de TOGAF, traduite ici en une spirale itérative, centrée sur l’humain :
+La méthode TOGAFrance adapte le cycle classique ADM de TOGAF en un **processus itératif centré sur l’humain**.  
+Chaque phase a un rôle clair et produit des livrables concrets, simples et partageables.  
+Voici l’interprétation TOGAFrance des grandes étapes du cycle :
 
-[Vision] → [Diagnostic] → [Plan d'action] → [Expérimentation] → [Retour] → [Ajustement] → retour à [Vision]
+![Cycle ADM TOGAFrance](../media/ADM_TOGAFrance.png)
 
+---
 
-Chaque cycle renforce le projet tout en préservant la réversibilité.
+### 1. Phase Préliminaire – *Préparer le terrain*  
+Identifier les acteurs, clarifier les intentions, poser les bases éthiques.  
+Construire la confiance, définir ce que signifie "réussir", ouvrir la porte à la co-construction.
 
-### 1. Vision  
-Un cap partagé : valeurs, finalités, priorités.  
-Rédigé en langage clair, co-construit avec les acteurs de terrain.
+### 2. Vision – *Clarifier le but*  
+Définir un cap partagé : pourquoi agit-on ? vers quoi veut-on aller ?  
+Un langage simple, inspirant, compréhensible par un enfant de 10 ans.
 
-### 2. Diagnostic  
-Un état des lieux honnête : forces, blocages, urgences.  
-Outils : enquêtes, cartographies d’usages, écoutes collectives.
+### 3. Architecture des services – *Décrire l’existant*  
+Cartographier les services, les besoins, les dysfonctionnements.  
+Construire ensemble une image claire de “comment ça marche aujourd’hui”.
 
-### 3. Plan d’action  
-Des priorités concrètes sur 2 à 3 mois.  
-S’appuie sur des **catalogues**, **matrices** et **cartes de rôles**.
+### 4. Opportunités et solutions – *Valoriser les pratiques utiles*  
+Repérer ce qui fonctionne déjà.  
+Mettre en lumière les forces locales, les petits succès à amplifier.
 
-### 4. Expérimentation  
-Des actions testées, mesurées avec des indicateurs qualitatifs.  
-Les échecs sont documentés et valorisés.
+### 5. Planification de la migration – *Construire un chemin réaliste*  
+Créer un calendrier d’action à court et moyen terme.  
+Utiliser les **catalogues**, **matrices de rôles**, **principes de réversibilité**.
 
-### 5. Retour & Ajustement  
-Les résultats sont partagés, les difficultés nommées, les solutions adaptées.  
-Chaque boucle enrichit la mémoire collective.
+### 6. Gouvernance de la mise en œuvre – *Encadrer l’action*  
+Mettre en place un suivi local, une coordination simple, des repères éthiques.  
+Attribuer à chacun un rôle utile, et le rendre lisible.
+
+### 7. Suivi de la mise en œuvre – *Observer ce qui se passe vraiment*  
+Remonter les signaux faibles du terrain.  
+Célébrer les réussites, nommer les décalages entre le plan et la réalité.
+
+### 8. Adaptation continue – *Tirer les leçons et ajuster*  
+Documenter ce qui a été vécu.  
+Mettre à jour la carte. Partager les leçons pour que d’autres puissent s’en inspirer.
+
+---
+
+📝 Chaque phase est **réversible, co-construite et documentée**.  
+Un territoire peut suspendre ou recommencer une étape si le lien humain est rompu.  
+Le cycle n’impose pas : il soutient.
+
+👉 Cette structure permet d’aligner l’action locale avec une cohérence nationale, sans étouffer la créativité.
+
 
 ---
 
