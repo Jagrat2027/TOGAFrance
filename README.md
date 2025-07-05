@@ -78,7 +78,7 @@ TOGAFrance is not a technocratic program: it is for everyone who wants to unders
 
 ## Resources
 
-- [TOGAFrance Practical Guide](./TOGAFrance_Livret_Pratique.pdf)  
+- [TOGAFrance Practical Guide](./medias/TOGAFrance_Livret_Pratique.pdf)  
   *(Complete version: methodology and principles)*
 - [Practical Vision for TOGAFrance](https://github.com/Jagrat2027/Programme2027)  
   *(Direct access to the full program, scenarios, and budget on the Programme2027 repository)*
