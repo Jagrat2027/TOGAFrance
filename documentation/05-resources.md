@@ -39,7 +39,7 @@ All documents are reusable, versioned, and designed for transparency and clarity
 
 TOGAFrance reinterprets the **ADM (Architecture Development Method)** from TOGAF into a **5-phase living cycle**:
 
-![TOGAFrance ADM Cycle](../media/ADM_TOGAFrance.png)
+![Cycle ADM TOGAFrance](../medias/images/ADM_TOGAFrance.png)
 
 
 Each phase produces deliverables, which follow the **TOGAF-inspired Content Framework** (see [Chapter 3](./03-method.md)).
