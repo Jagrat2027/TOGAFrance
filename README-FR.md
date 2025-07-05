@@ -121,6 +121,10 @@ Contact : [Jagrat2027](mailto:jagrat2027@gmail.com)
 
 ---
 
+TOGAFrance est une réinterprétation citoyenne indépendante inspirée du cadre TOGAF®. TOGAF est une marque déposée de The Open Group. TOGAFrance n’est ni affilié et ni soutenu par The Open Group.
+
+---
+
 > “Ce que nous faisons doit être juste, lisible, réversible, et possible à transmettre.”
 > 
 > — Extrait du livret TOGAFrance

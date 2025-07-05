@@ -48,14 +48,19 @@ Tous les modèles et exemples principaux sont accessibles ici :
 
 ---
 
-## Besoins & idées
+## Besoins & Idées
 
-- Scripts de conversion Markdown → PDF
-- Outil de traduction ou de synchronisation bilingue
-- Générateurs de formulaires (Markdown, Word, Excel)
-- Données d’exemple pour tester les outils
-- Aides ou checklists pour la documentation
+- ✅ Scripts de conversion Markdown → PDF / DOCX / XLSX
+- ✅ Scripts de traduction automatique (Markdown ↔️ EN/FR) avec synchronisation intelligente
+- 🧩 Générateurs de modèles : diagnostic, plan d’action, retour d’expérience (Markdown / Word / Excel)
+- 🔍 Aides à la rédaction : checklists contributeurs, guides de mise en forme
+- 📄 Données fictives ou exemples pour illustrer les cas d’usage (territoire, feuille de route, livrables)
+- 🔁 Script de surveillance inter-repôts : si une nouvelle version du **Programme2027** est mergée, proposer automatiquement une **issue** dans TOGAFrance (si cela impacte la vision ou les principes)
+- 🧪 Générateur de matrice des rôles ou de catalogue d’acteurs à partir de fichiers YAML/JSON
+- 🔗 Diagrammes générés automatiquement pour les cycles ADM et les flux de transformation
+- 🧠 Assistant IA ou prompt pré-entraîné pour aider les contributeurs à écrire dans l’esprit TOGAFrance
 
-_Même un brouillon ou une simple idée est la bienvenue !_
+_Même une ébauche, un brouillon ou une idée partielle est la bienvenue. Co-construisons les communs._
+
 
 ---

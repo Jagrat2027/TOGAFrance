@@ -19,6 +19,7 @@ _A French version is available: [README-FR.md](./README-FR.md)_
   - [Roadmap](#roadmap)
   - [License](#license)
   - [Contacts](#contacts)
+  - [Note](#note)
 
 ---
 
@@ -119,6 +120,10 @@ Contact: [Jagrat2027](mailto:jagrat2027@gmail.com)
 
 ---
 
+## Note
+TOGAFrance is an independent civic reinterpretation inspired by the TOGAF® framework. TOGAF is a registered trademark of The Open Group. TOGAFrance is not affiliated with or endorsed by The Open Group.
+
+---
 > “What we do must be just, clear, reversible, and possible to transmit.”
 > 
 > — From the TOGAFrance Practical Guide

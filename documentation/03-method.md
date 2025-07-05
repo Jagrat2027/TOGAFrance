@@ -112,11 +112,11 @@ Each deliverable is:
 TOGAFrance is not hierarchical. Roles are based on usefulness, not titles.  
 Here are some example roles:
 
-- **The Passeur**: bridges citizens and institutions  
-- **The Gardien**: ensures ethical principles are respected  
-- **The Veilleur**: observes weak signals and risks  
-- **The Bâtisseur**: organizes tools and coordination  
-- **The Relieur**: connects isolated actors and initiatives  
+- **The Bridge-Builder**: bridges citizens and institutions  
+- **The Guardian**: ensures ethical principles are respected  
+- **The Watcher**: observes weak signals and risks  
+- **The Builder**: organizes tools and coordination  
+- **The Weaver**: connects isolated actors and initiatives  
 
 Each role may shift or overlap, depending on the local team. A **role matrix** is provided to visualize who contributes where during the cycle.
 
