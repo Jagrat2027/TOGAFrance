@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Questions générales sur TOGAFrance
+    url: https://github.com/Jagrat2027/TOGAFrance/discussions
+    about: Posez vos questions générales ou partagez vos idées dans l'onglet Discussions.
+
+  - name: 📧 Contact direct (équipe TOGAFrance)
+    url: mailto:github@jagrat.fr
+    about: Pour toute question personnelle ou confidentielle, contactez-nous par email.
