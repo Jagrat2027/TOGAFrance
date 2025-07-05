@@ -1,20 +1,24 @@
 # Convention de nommage des fichiers et dossiers
 
-_Version française : ce document existe aussi en anglais : [NAMING-CONVENTION.md](./NAMING-CONVENTION.md)_
+_Version française : ce document existe aussi en anglais : [NAMING_CONVENTION.md](./NAMING_CONVENTION.md)_
 
 ---
 
 ## Règles générales
 
-- **Utilisez uniquement des minuscules et des tirets (`-`)** pour séparer les mots.  
-  _Exemple : `example-pilot`, `diagnostic.md`, `action-plan.md`_
-- **Pas d’espaces, pas d’accents, pas de caractères spéciaux** (sauf tiret et underscore si besoin).
-- Pour tous les fichiers bilingues, **ajoutez le code langue en suffixe** :
-  - Anglais : pas de suffixe (par défaut)
-  - Français : `-FR` avant l’extension
-  - _Exemple : `README.md` (EN), `README-FR.md` (FR) ; `diagnostic.md` (EN), `diagnostic-FR.md` (FR)_
-- **Gardez les extensions de fichiers en minuscules** (`.md`, `.docx`, `.py`, etc.)
-- **Sous-dossiers pour les pilotes/territoires** : utilisez `pilots-territories/<lieu-ou-groupe>-<année>/`
+- Utilisez des **underscores `_`** pour séparer les mots dans les noms de fichiers.  
+  Exemples : `action_plan.md`, `experience_report.md`, `template_report.md`
+
+- Utilisez un **tiret `-`** juste avant l’extension du fichier pour indiquer la version linguistique.  
+  Exemples :  
+  - Anglais (par défaut) : `action_plan.md`  
+  - Français : `action_plan-FR.md`  
+  - Allemand (futur) : `action_plan-DE.md`
+
+- Gardez les extensions en minuscules et cohérentes (`.md`, `.docx`, `.py`, etc.).
+
+- Pour les noms de dossiers, utilisez des **tirets `-`** pour séparer les mots.  
+  Exemples : `pilots-territories`, `tools/scripts`
 
 ---
 
@@ -24,14 +28,14 @@ _Version française : ce document existe aussi en anglais : [NAMING-CONVENTION
     example-pilot/
         diagnostic.md
         diagnostic-FR.md
-        action-plan.md
-        action-plan-FR.md
-        experience-report.md
-        experience-report-FR.md
+        action_plan.md
+        action_plan-FR.md
+        experience_report.md
+        experience_report-FR.md
         README.md
         README-FR.md
 
 
 templates/
-    template-report.md
-    template-report-FR.md
+    template_report.md
+    template_report-FR.md

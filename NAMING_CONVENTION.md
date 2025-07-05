@@ -6,15 +6,19 @@ _A French version is available: [NAMING_CONVENTION-FR.md](./NAMING_CONVENTION-FR
 
 ## General Rules
 
-- **Use lowercase letters** and dashes (`-`) to separate words in file and folder names.  
-  _Example: `example-pilot`, `diagnostic.md`, `action-plan.md`_
-- **No spaces, no accents, no special characters** (except dash and underscore if needed).
-- For all paired files, **append the language code as a suffix**:
-  - English: no suffix (default)  
-  - French: `-FR` before the extension
-  - _Example: `README.md` (EN), `README-FR.md` (FR); `diagnostic.md` (EN), `diagnostic-FR.md` (FR)_
-- **Keep file extensions in lowercase** (`.md`, `.docx`, `.py`, etc.)
-- **Subfolders for pilots/territories**: use `pilots-territories/<location-or-group>-<year>/`
+- Use **underscores `_`** to separate words within filenames.  
+  Examples: `action_plan.md`, `experience_report.md`, `template_report.md`
+
+- Use a **dash `-`** just before the file extension to indicate the language version.  
+  Examples:  
+  - English (default): `action_plan.md`  
+  - French: `action_plan-FR.md`  
+  - German (future): `action_plan-DE.md`
+
+- Keep file extensions in lowercase and consistent (`.md`, `.docx`, `.py`, etc.).
+
+- For folder names, use **hyphens `-`** to separate words.  
+  Examples: `pilots-territories`, `tools/scripts`
 
 ---
 
@@ -24,14 +28,14 @@ _A French version is available: [NAMING_CONVENTION-FR.md](./NAMING_CONVENTION-FR
     example-pilot/
         diagnostic.md
         diagnostic-FR.md
-        action-plan.md
-        action-plan-FR.md
-        experience-report.md
-        experience-report-FR.md
+        action_plan.md
+        action_plan-FR.md
+        experience_report.md
+        experience_report-FR.md
         README.md
         README-FR.md
 
 
 templates/
-    template-report.md
-    template-report-FR.md
+    template_report.md
+    template_report-FR.md
