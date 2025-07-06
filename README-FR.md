@@ -4,10 +4,43 @@ _Version française : ce dépôt existe aussi en anglais : [README.md](./README
 **TOGAFrance** est une méthode nationale de transformation, inspirée du cadre TOGAF (The Open Group Architecture Framework), adaptée pour refonder les services publics français, restaurer la confiance citoyenne et transmettre une vision éthique et durable du changement.
 
 ---
+## Esprit du projet — un cadeau pour l’avenir
+
+TOGAFrance n’est pas une campagne.  
+Ce n’est pas un manifeste personnel, ni une tentative de prise de pouvoir.
+
+C’est un **cadre**, offert en open source à la nation.  
+Un outil rigoureux, lisible, et transmissible, conçu pour **réparer ce qui peut l’être**, structurer ce qui est flou, et aider à reconstruire le lien entre citoyens, institutions et territoires.
+
+Je n’ai ni certitude absolue, ni solution magique.  
+Mais j’ai voulu montrer qu’il est possible d’**agir avec sérieux, méthode, humilité — et de transmettre.**
+
+Si des erreurs se glissent dans ce cadre, qu’on les corrige.  
+Si des améliorations sont possibles, qu’on les propose.  
+Car **ce dépôt n’est pas une vérité, mais une invitation.**
+
+---
+
+### Pour ceux qui viendront après
+
+Un jour, nous serons fragiles, comme d’autres le sont déjà aujourd’hui.  
+Et alors, **ce seront les jeunes d’aujourd’hui qui tiendront la nation**.
+
+Ce projet leur est destiné.  
+Pas pour les encadrer — mais pour leur donner les moyens d’inventer, de réparer, de transmettre à leur tour.
+
+Si ce cadre peut aider un seul territoire à mieux coopérer,  
+un seul service public à mieux respirer,  
+un seul jeune à se dire *“je peux construire quelque chose”* —  
+alors il aura déjà rempli sa mission.
+
+---
 
 ## Sommaire
 
 - [TOGAFrance](#togafrance)
+  - [Esprit du projet — un cadeau pour l’avenir](#esprit-du-projet--un-cadeau-pour-lavenir)
+    - [Pour ceux qui viendront après](#pour-ceux-qui-viendront-après)
   - [Sommaire](#sommaire)
   - [Pourquoi TOGAFrance ?](#pourquoi-togafrance)
   - [Vision](#vision)

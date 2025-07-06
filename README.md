@@ -5,9 +5,43 @@ _A French version is available: [README-FR.md](./README-FR.md)_
 
 ---
 
+## Spirit of the Project — A Gift for the Future
+
+TOGAFrance is not a campaign.  
+It is not a personal manifesto, nor a bid for power.
+
+It is a **framework**, offered openly to the nation.  
+A rigorous, readable, and shareable tool, designed to **repair what can be repaired**, bring structure where there is vagueness, and help rebuild trust between citizens, institutions, and territories.
+
+I claim no absolute truth, no perfect solution.  
+But I wanted to prove that it is possible to **act with seriousness, clarity, humility — and pass it on.**
+
+If there are mistakes in this framework, let them be corrected.  
+If it can be improved, let others do it.  
+Because **this repository is not a doctrine — it's an invitation.**
+
+---
+
+### For Those Who Will Come After Us
+
+One day, we too will be fragile — as many already are.  
+And when that time comes, **today’s youth will be the ones holding the nation together.**
+
+This project is for them.  
+Not to constrain — but to give them the tools to imagine, rebuild, and pass something better on.
+
+If this framework helps just one territory collaborate better,  
+one public service breathe easier,  
+or one young person say *“I can build something”* —  
+then it will have already fulfilled its mission.
+
+---
+
 ## Table of Contents
 
 - [TOGAFrance](#togafrance)
+  - [Spirit of the Project — A Gift for the Future](#spirit-of-the-project--a-gift-for-the-future)
+    - [For Those Who Will Come After Us](#for-those-who-will-come-after-us)
   - [Table of Contents](#table-of-contents)
   - [Why TOGAFrance?](#why-togafrance)
   - [Vision](#vision)
