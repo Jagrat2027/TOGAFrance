@@ -158,7 +158,7 @@ Each role may shift or overlap, depending on the local team. A **role matrix** i
 
 - [Glossary](./08-glossary.md) — Key terms (e.g., catalog, role matrix, reversibility)
 - [FAQ](./09-faq.md) — Questions about how to contribute or adapt the method
-- [Live Examples](../examples/) — Territory pilots and shared experiences
+- [Live Examples](../pilots-territories/) — Territory pilots and shared experiences
 - [Templates](../tools/templates/) — To help you get started
 
 ---

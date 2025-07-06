@@ -160,7 +160,7 @@ Chaque territoire peut adapter cette carte des rôles. Une **matrice de rôles**
 
 - [Lexique](./08-glossaire-FR.md) — Définitions des mots clés (catalogue, matrice de rôles, réversibilité…)
 - [FAQ](./09-faq-FR.md) — Réponses aux questions fréquentes
-- [Exemples vivants](../examples/) — Retours d’expérience de territoires pilotes
+- [Exemples vivants](../pilots-territories/) — Retours d’expérience de territoires pilotes
 - [Modèles](../tools/templates/) — Pour commencer facilement
 
 ---
