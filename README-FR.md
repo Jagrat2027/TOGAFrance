@@ -79,7 +79,7 @@ TOGAFrance n’est pas un programme de techniciens : il est fait pour tous ceux
 
 ## Ressources
 
-- [Livret pratique TOGAFrance](./TOGAFrance_Livret_Pratique.pdf)  
+- [Livret pratique TOGAFrance](./medias/TOGAFrance_Livret_Pratique.pdf)
   *(Version complète, méthodologie et principes)*
 - [Vision pratique pour TOGAFrance](https://github.com/Jagrat2027/Programme2027)  
   *(Accès direct au programme, scénarios et chiffrage sur le dépôt Programme2027)*
