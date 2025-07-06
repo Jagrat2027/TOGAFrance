@@ -113,6 +113,12 @@ Utilisation, modification, réutilisation libre à condition de citer l’origin
 
 ---
 
+🛠️ **Note importante :**  
+TOGAFrance est un cadre open source. Les adaptations, forks et réutilisations dans d'autres contextes (locaux ou internationaux) sont encouragées — mais relèvent de la responsabilité de leurs auteurs.  
+Ce dépôt ne valide ni ne pilote les déclinaisons.
+
+---
+
 ## Contacts
 
 Pour toute question, proposition ou demande :  

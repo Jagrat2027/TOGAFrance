@@ -108,7 +108,13 @@ Everyone can propose tools, feedback, local adaptations, corrections, and additi
 ## License
 
 This project is licensed under **Creative Commons BY-SA 4.0**.  
-Use, modify, and reuse freely, as long as you credit the origin and share under the same conditions.
+You are free to use, modify, and redistribute it, as long as the original source is credited and shared under the same conditions.
+
+---
+
+🛠️ **Important Note:**  
+TOGAFrance is an open-source framework. Adaptations, forks, and reuses in other contexts (local or international) are encouraged — but remain the responsibility of their authors.  
+This repository does not validate or supervise any derived versions.
 
 ---
 
