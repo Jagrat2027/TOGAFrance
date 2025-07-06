@@ -40,7 +40,7 @@ La méthode TOGAFrance adapte le cycle classique ADM de TOGAF en un **processus 
 Chaque phase a un rôle clair et produit des livrables concrets, simples et partageables.  
 Voici l’interprétation TOGAFrance des grandes étapes du cycle :
 
-![Cycle ADM TOGAFrance](../medias/images/ADM_TOGAFrance.png)
+![Cycle ADM TOGAFrance](../medias/images/Cycle%20ADM%20TOGAFrance%20(Français).1.png)
 
 ---
 

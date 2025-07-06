@@ -14,6 +14,7 @@ _Version française : ce dépôt existe aussi en anglais : [README.md](./README
   - [Principes fondateurs](#principes-fondateurs)
   - [La méthode en bref](#la-méthode-en-bref)
   - [Pour qui ?](#pour-qui)
+    - [Schéma du cycle ADM TOGAFrance](#schéma-du-cycle-adm-togafrance)
   - [Ressources](#ressources)
   - [Contribuer](#contribuer)
   - [Roadmap](#roadmap)
@@ -73,7 +74,14 @@ TOGAFrance n’est pas un programme de techniciens : il est fait pour tous ceux
 - Tous les territoires désireux de redevenir maîtres de leur destin collectif, quelle que soit leur taille, leur contexte ou leur histoire.
 - Tous ceux qui se sont dit un jour : “il faut changer les choses.”
 
+---
 
+### Schéma du cycle ADM TOGAFrance
+
+Voici le cycle de transformation civique tel qu’il est interprété dans la méthode TOGAFrance.  
+Inspiré du cadre TOGAF®, il recentre chaque phase sur les **exigences citoyennes**, dans un processus itératif, lisible et reproductible.
+
+![Cycle ADM TOGAFrance (Français)](./medias/images/Cycle%20ADM%20TOGAFrance%20(Français).1.png)
 
 ---
 

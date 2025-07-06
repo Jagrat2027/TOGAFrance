@@ -14,6 +14,7 @@ _A French version is available: [README-FR.md](./README-FR.md)_
   - [Founding Principles](#founding-principles)
   - [The Method at a Glance](#the-method-at-a-glance)
   - [For Whom?](#for-whom)
+    - [ADM Cycle – TOGAFrance Interpretation](#adm-cycle--togafrance-interpretation)
   - [Resources](#resources)
   - [Contribute](#contribute)
   - [Roadmap](#roadmap)
@@ -73,6 +74,15 @@ TOGAFrance is not a technocratic program: it is for everyone who wants to unders
 - Practitioners and thinkers in transformation (facilitators, coaches, trainers…) wishing to embody an iterative, living, and deeply human approach.
 - All territories wishing to reclaim control over their collective destiny, regardless of size, context, or history.
 - **Anyone who has ever thought, even once: “things need to change.”**
+
+---
+
+### ADM Cycle – TOGAFrance Interpretation
+
+Below is the transformation cycle as interpreted by the TOGAFrance method.  
+Inspired by the TOGAF® framework, it recenters each phase around **citizen requirements**, in an iterative, transparent, and reproducible approach.
+
+![ADM Cycle TOGAFrance (English)](./medias/images/Cycle%20ADM%20TOGAFrance%20(Anglais).1.png)
 
 ---
 
