@@ -13,16 +13,16 @@ Cet exemple montre comment appliquer la méthode TOGAFrance à une demande local
 
 ### 🇫🇷 Français
 
-- [Diagnostic initial](./livrables/FR/diagnostic.md)
-- [Plan d’action](./livrables/FR/plan-action.md)
-- [Retour d’expérience](./livrables/FR/rapport-experience.md)
+- [Diagnostic initial](./initial_assessment-FR.md)
+- [Plan d’action](./action_plan-FR.md)
+- [Retour d’expérience](./feedback_report-FR.md)
 - [Livrables TOGAFrance (FR)](#livrables-togafrance-fr)
 
 ### 🇬🇧 English
 
-- [Initial Assessment](./livrables/EN/initial-assessment.md)
-- [Action Plan](./livrables/EN/action-plan.md)
-- [Feedback Report](./livrables/EN/feedback-report.md)
+- [Initial Assessment](./initial_assessment.md)
+- [Action Plan](./action_plan.md)
+- [Feedback Report](./feedback_report.md)
 - [TOGAFrance Deliverables](#togafrance-deliverables)
 
 ---
