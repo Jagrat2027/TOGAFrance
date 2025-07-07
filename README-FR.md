@@ -2,9 +2,9 @@
 
 _Version française : ce dépôt existe aussi en anglais : [README.md](./README.md)_
 
-![build](https://img.shields.io/badge/build-passing-brightgreen)
-![docs](https://img.shields.io/badge/docs-100%25-blue)
-![FR/EN](https://img.shields.io/badge/lang-FR%20%7C%20EN-orange)
+[![Docs](https://img.shields.io/badge/docs-livrables-blue)](./livrables/)
+![Langues](https://img.shields.io/badge/lang-FR%20%7C%20EN-orange)
+[![Pilots](https://img.shields.io/badge/pilotes-ouverts-yellow)](./pilots-territories/)
 
 **TOGAFrance** est une méthode nationale de transformation, inspirée du cadre TOGAF (The Open Group Architecture Framework), adaptée pour refonder les services publics français, restaurer la confiance citoyenne et transmettre une vision éthique et durable du changement.
 
