@@ -2,6 +2,10 @@
 
 _A French version is available: [README-FR.md](./README-FR.md)_
 
+![build](https://img.shields.io/badge/build-passing-brightgreen)
+![docs](https://img.shields.io/badge/docs-100%25-blue)
+![FR/EN](https://img.shields.io/badge/lang-FR%20%7C%20EN-orange)
+
 **TOGAFrance** is a national transformation method, inspired by the TOGAF framework (The Open Group Architecture Framework), adapted to rebuild France’s public services, restore civic trust, and transmit an ethical, sustainable vision of change.
 
 ---
