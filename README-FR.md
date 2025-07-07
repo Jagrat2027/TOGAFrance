@@ -42,6 +42,16 @@ alors il aura déjà rempli sa mission.
 
 ---
 
+## ✨ Exemple concret à découvrir
+
+> **Pour voir la méthode appliquée en vrai, découvrez l’exemple “feu rouge devant une école” :**
+>
+> [Exemple complet — Feu rouge devant une école](./pilots-territories/00_example_territory/00_example_city/00_example_feurouge.md/README-FR.md)
+>
+> _(Diagnostic, plan d’action, retour d’expérience, et tous les livrables TOGAFrance remplis pour un micro-projet local.)_
+
+---
+
 ## Sommaire
 
 - [TOGAFrance](#togafrance)

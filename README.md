@@ -42,6 +42,16 @@ then it will have already fulfilled its mission.
 
 ---
 
+## ✨ Discover a concrete example
+
+> **To see the method in action, check out the “School Traffic Light” example:**
+>
+> [Full Example — School Traffic Light](./pilots-territories/00_example_territory/00_example_city/00_example_feurouge.md/README.md)
+>
+> _(Initial assessment, action plan, feedback report, and all TOGAFrance deliverables filled for a real-life local micro-project.)_
+
+---
+
 ## Table of Contents
 
 - [TOGAFrance](#togafrance)
