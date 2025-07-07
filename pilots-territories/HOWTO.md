@@ -1,6 +1,6 @@
 # HOWTO – Contributing a Pilot or Territory Experience
 
-_English | [Version française plus bas](#français)_
+_English | [Version française plus bas](./HOWTO.md)_
 
 ---
 
@@ -15,11 +15,12 @@ This `/pilots-territories` folder is dedicated to sharing field feedback and pil
 1. **Create a subfolder**  
    Name it after your territory or group (e.g., `paris-pilot`, `collective-lyon-2027`, `service-public-ouest`).
 
-2. **Include the following files:**  
+2. **Include the following files:**
+
    - `diagnostic.md`: initial assessment, context, needs, starting point
    - `plan-action.md`: action plan, roadmap, local adaptations
    - `rapport-experience.md`: feedback, obstacles, lessons learned, recommendations
-   - `README.md` *(optional)*: short intro to your context/team
+   - `README.md` _(optional)_: short intro to your context/team
 
 3. **Anonymize sensitive data**  
    Remove any confidential names or data you do not wish to publish.
@@ -38,4 +39,3 @@ This `/pilots-territories` folder is dedicated to sharing field feedback and pil
 ---
 
 ## Example
-

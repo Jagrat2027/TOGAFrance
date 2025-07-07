@@ -1,4 +1,5 @@
 # TOGAFrance
+
 _A French version is available: [README-FR.md](./README-FR.md)_
 
 **TOGAFrance** is a national transformation method, inspired by the TOGAF framework (The Open Group Architecture Framework), adapted to rebuild France’s public services, restore civic trust, and transmit an ethical, sustainable vision of change.
@@ -32,7 +33,7 @@ Not to constrain — but to give them the tools to imagine, rebuild, and pass so
 
 If this framework helps just one territory collaborate better,  
 one public service breathe easier,  
-or one young person say *“I can build something”* —  
+or one young person say _“I can build something”_ —  
 then it will have already fulfilled its mission.
 
 ---
@@ -116,16 +117,18 @@ TOGAFrance is not a technocratic program: it is for everyone who wants to unders
 Below is the transformation cycle as interpreted by the TOGAFrance method.  
 Inspired by the TOGAF® framework, it recenters each phase around **citizen requirements**, in an iterative, transparent, and reproducible approach.
 
-![ADM Cycle TOGAFrance (English)](./medias/images/Cycle%20ADM%20TOGAFrance%20(Anglais).1.png)
+![ADM Cycle TOGAFrance (English)](<./medias/images/Cycle%20ADM%20TOGAFrance%20(Anglais).1.png>)
 
 ---
 
 ## Resources
 
 - [TOGAFrance Practical Guide](./medias/TOGAFrance_Livret_Pratique.pdf)  
-  *(Complete version: methodology and principles)*
+  _(Complete version: methodology and principles)_
 - [Practical Vision for TOGAFrance](https://github.com/Jagrat2027/Programme2027)  
-  *(Direct access to the full program, scenarios, and budget on the Programme2027 repository)*
+  _(Direct access to the full program, scenarios, and budget on the Programme2027 repository)_
+- [Livrables documentation](./livrables/README.md)  
+  _(Direct access to the full livrables for TOGAFrance)_
 
 ---
 
@@ -171,9 +174,11 @@ Contact: [Jagrat2027](mailto:jagrat2027@gmail.com)
 ---
 
 ## Note
+
 TOGAFrance is an independent civic reinterpretation inspired by the TOGAF® framework. TOGAF is a registered trademark of The Open Group. TOGAFrance is not affiliated with or endorsed by The Open Group.
 
 ---
+
 > “What we do must be just, clear, reversible, and possible to transmit.”
-> 
+>
 > — From the TOGAFrance Practical Guide

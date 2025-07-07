@@ -1,9 +1,11 @@
 # TOGAFrance
+
 _Version française : ce dépôt existe aussi en anglais : [README.md](./README.md)_
 
 **TOGAFrance** est une méthode nationale de transformation, inspirée du cadre TOGAF (The Open Group Architecture Framework), adaptée pour refonder les services publics français, restaurer la confiance citoyenne et transmettre une vision éthique et durable du changement.
 
 ---
+
 ## Esprit du projet — un cadeau pour l’avenir
 
 TOGAFrance n’est pas une campagne.  
@@ -31,7 +33,7 @@ Pas pour les encadrer — mais pour leur donner les moyens d’inventer, de rép
 
 Si ce cadre peut aider un seul territoire à mieux coopérer,  
 un seul service public à mieux respirer,  
-un seul jeune à se dire *“je peux construire quelque chose”* —  
+un seul jeune à se dire _“je peux construire quelque chose”_ —  
 alors il aura déjà rempli sa mission.
 
 ---
@@ -114,16 +116,18 @@ TOGAFrance n’est pas un programme de techniciens : il est fait pour tous ceux
 Voici le cycle de transformation civique tel qu’il est interprété dans la méthode TOGAFrance.  
 Inspiré du cadre TOGAF®, il recentre chaque phase sur les **exigences citoyennes**, dans un processus itératif, lisible et reproductible.
 
-![Cycle ADM TOGAFrance (Français)](./medias/images/Cycle%20ADM%20TOGAFrance%20(Français).1.png)
+![Cycle ADM TOGAFrance (Français)](<./medias/images/Cycle%20ADM%20TOGAFrance%20(Français).1.png>)
 
 ---
 
 ## Ressources
 
 - [Livret pratique TOGAFrance](./medias/TOGAFrance_Livret_Pratique.pdf)
-  *(Version complète, méthodologie et principes)*
+  _(Version complète, méthodologie et principes)_
 - [Vision pratique pour TOGAFrance](https://github.com/Jagrat2027/Programme2027)  
-  *(Accès direct au programme, scénarios et chiffrage sur le dépôt Programme2027)*
+  _(Accès direct au programme, scénarios et chiffrage sur le dépôt Programme2027)_
+- [Documentation des livrables](./livrables/README.md)  
+  _(Accès direct à l’ensemble des livrables structurés TOGAFrance)_
 
 ---
 
@@ -173,5 +177,5 @@ TOGAFrance est une réinterprétation citoyenne indépendante inspirée du cadre
 ---
 
 > “Ce que nous faisons doit être juste, lisible, réversible, et possible à transmettre.”
-> 
+>
 > — Extrait du livret TOGAFrance
