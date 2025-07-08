@@ -20,6 +20,8 @@ This folder gathers all scripts, templates, and automation tools designed to hel
 - `templates/`: document or report templates (community-friendly, lightweight)
 - `docx/`: Word, Excel, or other office formats
 
+Each script/tool should include its own `README.md` inside its folder.
+
 ---
 
 ## Documentation & Starter Kit
@@ -50,17 +52,19 @@ All main templates and examples are available in:
 
 ## Needs & Ideas
 
-- ✅ Scripts to convert Markdown → PDF / DOCX / XLSX
-- ✅ Automatic translation scripts (Markdown ↔️ EN/FR), with smart sync
-- 🧩 Template generators: diagnosis, action plan, feedback report (Markdown / Word / Excel)
-- 🔍 Writing helpers: contributor checklists, formatting guides
-- 📄 Fake/example data for illustrating use cases (territory, roadmap, deliverables)
-- 🔁 Cross-repo monitoring script: if a new version of **Programme2027** is merged, automatically propose an **issue** in TOGAFrance (if it impacts vision or principles)
-- 🧪 Role matrix or actor catalog generator from YAML/JSON files
-- 🔗 Auto-generated diagrams for ADM cycles and roadmap flows
-- 🧠 AI assistant or pre-trained prompt to help contributors write in the TOGAFrance spirit
+- ✅ [Markdown → PDF / DOCX / XLSX](./scripts/generate-pdf/README.md)
+- ✅ [Automatic translation scripts (Markdown ↔️ EN/FR)](./scripts/translate-md/README.md)
+- 🧩 [Template generators](./scripts/generate-template/README.md)
+- 🔍 [Writing helpers](../writing-tools/README.md)
+- 📄 [Fake/example data](../fake-data/README.md)
+- 🔁 [Cross-repo monitoring script](./scripts/sync-programme2027/README.md)
+- 🧪 [Role matrix / actor catalog](./scripts/generate-role-matrix/README.md)
+- 🔗 [Auto-generated diagrams](./scripts/generate-diagrams/README.md)
+- 🧠 [AI assistant (TOGAFrance style)](./scripts/tf-assistant/README.md)
 
-_Even a draft, sketch, or half-baked idea is welcome. Let’s co-build the commons._
+
+
+_Even a draft, prototype, or work-in-progress is welcome. Let’s co-build the commons._
 
 
 ---

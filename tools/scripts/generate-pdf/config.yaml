@@ -1,0 +1,12 @@
+theme: "toga-default"
+output:
+  input_dir: "./docs/"
+  output_dir: "./pdf/"
+options:
+  include_toc: true
+  paginate: true
+  metadata:
+    title: "TOGAFrance Document"
+    author: "Programme 2027"
+    date: "2027-01-01"
+engine: "weasyprint"  # or pandoc

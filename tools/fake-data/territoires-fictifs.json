@@ -1,0 +1,454 @@
+{
+  "territoires": [
+    {
+      "id": "T-001",
+      "nom": "Pays-Silence",
+      "population": 256000,
+      "superficie_km2": 480,
+      "statut": "rural enclavé en transition",
+      "région": "Nord-Est Altitudes",
+      "priorités": [
+        "accès aux soins primaires",
+        "revitalisation des centres-bourgs",
+        "autonomie alimentaire"
+      ],
+      "contraintes": [
+        "désertification médicale",
+        "faible connectivité numérique"
+      ],
+      "ressources": [
+        "coopératives agricoles",
+        "forêt communale productive"
+      ],
+      "acteurs": [
+        {
+          "nom": "Collectif Horizon",
+          "type": "associatif",
+          "rôle": "animation locale"
+        },
+        {
+          "nom": "ARST Territoires",
+          "type": "public",
+          "rôle": "coordination institutionnelle"
+        }
+      ],
+      "dynamiques": [
+        "Charte alimentaire intercommune (2024)",
+        "Voie verte en reconversion"
+      ],
+      "expérimentations": [
+        {
+          "nom": "Villages intelligents",
+          "porteur": "Collectif Horizon",
+          "description": "Déploiement capteurs open-data",
+          "état": "en cours"
+        }
+      ]
+    },
+    {
+      "id": "T-002",
+      "nom": "Basse-Cimes",
+      "population": 137000,
+      "superficie_km2": 920,
+      "statut": "territoire périurbain en reconversion",
+      "région": "Sud-Est Vallonné",
+      "priorités": [
+        "transition énergétique",
+        "mobilité intermodale",
+        "réemploi et circularité"
+      ],
+      "contraintes": [
+        "pollution industrielle historique",
+        "mobilité dépendante de la voiture"
+      ],
+      "ressources": [
+        "friche ferroviaire reconvertible",
+        "centrale photovoltaïque citoyenne"
+      ],
+      "acteurs": [
+        {
+          "nom": "Fabrique Locale",
+          "type": "coopérative",
+          "rôle": "écoconstruction"
+        },
+        {
+          "nom": "Territoire Durable 2030",
+          "type": "public",
+          "rôle": "planification stratégique"
+        }
+      ],
+      "dynamiques": [
+        "Budget participatif climat",
+        "Réseau de bus scolaire mutualisé"
+      ],
+      "expérimentations": [
+        {
+          "nom": "Quartiers résilients",
+          "porteur": "Fabrique Locale",
+          "description": "écoquartiers expérimentaux",
+          "état": "lancé"
+        }
+      ]
+    },
+    {
+      "id": "T-003",
+      "nom": "Zéphyr Est",
+      "population": 402000,
+      "superficie_km2": 310,
+      "statut": "urbain dense en mutation sociale",
+      "région": "Grand Bassin",
+      "priorités": [
+        "mixité scolaire",
+        "cohabitation intergénérationnelle",
+        "emploi des jeunes"
+      ],
+      "contraintes": [
+        "tension sur le logement",
+        "échec scolaire précoce"
+      ],
+      "ressources": [
+        "pépinières d’entreprises sociales",
+        "tissu associatif dense"
+      ],
+      "acteurs": [
+        {
+          "nom": "Forum des Possibles",
+          "type": "associatif",
+          "rôle": "éducation populaire"
+        },
+        {
+          "nom": "Ville de Zéphyr",
+          "type": "public",
+          "rôle": "soutien logistique"
+        }
+      ],
+      "dynamiques": [
+        "Conseil citoyen jeunes-adultes",
+        "Médiation intergénérationnelle dans 12 quartiers"
+      ],
+      "expérimentations": [
+        {
+          "nom": "Apprentissage sans mur",
+          "porteur": "Forum des Possibles",
+          "description": "réseau d’apprentissage en ville",
+          "état": "prototype validé"
+        }
+      ]
+    },
+    {
+      "id": "T-004",
+      "nom": "Territoire-4",
+      "population": 190000,
+      "superficie_km2": 520,
+      "statut": "territoire en expérimentation stratégique",
+      "région": "Région-4",
+      "priorités": [
+        "inclusion numérique",
+        "gouvernance partagée",
+        "mobilité douce"
+      ],
+      "contraintes": [
+        "fracture numérique",
+        "isolement des aînés"
+      ],
+      "ressources": [
+        "plateformes numériques citoyennes",
+        "réseau de tiers-lieux"
+      ],
+      "acteurs": [
+        {
+          "nom": "Initiative Locale 4",
+          "type": "associatif",
+          "rôle": "animation numérique"
+        },
+        {
+          "nom": "Commune Participative 4",
+          "type": "public",
+          "rôle": "soutien institutionnel"
+        }
+      ],
+      "dynamiques": [
+        "Projet de territoire numérique lancé en 2024",
+        "Forum citoyen annuel en place depuis 2023"
+      ],
+      "expérimentations": [
+        {
+          "nom": "Budget citoyen automatisé",
+          "porteur": "Commune Participative 4",
+          "description": "outil numérique d’arbitrage budgétaire collaboratif",
+          "état": "en test"
+        }
+      ]
+    },
+    {
+      "id": "T-005",
+      "nom": "Territoire-5",
+      "population": 200000,
+      "superficie_km2": 550,
+      "statut": "territoire en expérimentation stratégique",
+      "région": "Région-5",
+      "priorités": [
+        "inclusion numérique",
+        "gouvernance partagée",
+        "mobilité douce"
+      ],
+      "contraintes": [
+        "fracture numérique",
+        "isolement des aînés"
+      ],
+      "ressources": [
+        "plateformes numériques citoyennes",
+        "réseau de tiers-lieux"
+      ],
+      "acteurs": [
+        {
+          "nom": "Initiative Locale 5",
+          "type": "associatif",
+          "rôle": "animation numérique"
+        },
+        {
+          "nom": "Commune Participative 5",
+          "type": "public",
+          "rôle": "soutien institutionnel"
+        }
+      ],
+      "dynamiques": [
+        "Projet de territoire numérique lancé en 2025",
+        "Forum citoyen annuel en place depuis 2024"
+      ],
+      "expérimentations": [
+        {
+          "nom": "Budget citoyen automatisé",
+          "porteur": "Commune Participative 5",
+          "description": "outil numérique d’arbitrage budgétaire collaboratif",
+          "état": "en test"
+        }
+      ]
+    },
+    {
+      "id": "T-006",
+      "nom": "Territoire-6",
+      "population": 210000,
+      "superficie_km2": 580,
+      "statut": "territoire en expérimentation stratégique",
+      "région": "Région-6",
+      "priorités": [
+        "inclusion numérique",
+        "gouvernance partagée",
+        "mobilité douce"
+      ],
+      "contraintes": [
+        "fracture numérique",
+        "isolement des aînés"
+      ],
+      "ressources": [
+        "plateformes numériques citoyennes",
+        "réseau de tiers-lieux"
+      ],
+      "acteurs": [
+        {
+          "nom": "Initiative Locale 6",
+          "type": "associatif",
+          "rôle": "animation numérique"
+        },
+        {
+          "nom": "Commune Participative 6",
+          "type": "public",
+          "rôle": "soutien institutionnel"
+        }
+      ],
+      "dynamiques": [
+        "Projet de territoire numérique lancé en 2026",
+        "Forum citoyen annuel en place depuis 2025"
+      ],
+      "expérimentations": [
+        {
+          "nom": "Budget citoyen automatisé",
+          "porteur": "Commune Participative 6",
+          "description": "outil numérique d’arbitrage budgétaire collaboratif",
+          "état": "en test"
+        }
+      ]
+    },
+    {
+      "id": "T-007",
+      "nom": "Territoire-7",
+      "population": 220000,
+      "superficie_km2": 610,
+      "statut": "territoire en expérimentation stratégique",
+      "région": "Région-7",
+      "priorités": [
+        "inclusion numérique",
+        "gouvernance partagée",
+        "mobilité douce"
+      ],
+      "contraintes": [
+        "fracture numérique",
+        "isolement des aînés"
+      ],
+      "ressources": [
+        "plateformes numériques citoyennes",
+        "réseau de tiers-lieux"
+      ],
+      "acteurs": [
+        {
+          "nom": "Initiative Locale 7",
+          "type": "associatif",
+          "rôle": "animation numérique"
+        },
+        {
+          "nom": "Commune Participative 7",
+          "type": "public",
+          "rôle": "soutien institutionnel"
+        }
+      ],
+      "dynamiques": [
+        "Projet de territoire numérique lancé en 2027",
+        "Forum citoyen annuel en place depuis 2026"
+      ],
+      "expérimentations": [
+        {
+          "nom": "Budget citoyen automatisé",
+          "porteur": "Commune Participative 7",
+          "description": "outil numérique d’arbitrage budgétaire collaboratif",
+          "état": "en test"
+        }
+      ]
+    },
+    {
+      "id": "T-008",
+      "nom": "Territoire-8",
+      "population": 230000,
+      "superficie_km2": 640,
+      "statut": "territoire en expérimentation stratégique",
+      "région": "Région-8",
+      "priorités": [
+        "inclusion numérique",
+        "gouvernance partagée",
+        "mobilité douce"
+      ],
+      "contraintes": [
+        "fracture numérique",
+        "isolement des aînés"
+      ],
+      "ressources": [
+        "plateformes numériques citoyennes",
+        "réseau de tiers-lieux"
+      ],
+      "acteurs": [
+        {
+          "nom": "Initiative Locale 8",
+          "type": "associatif",
+          "rôle": "animation numérique"
+        },
+        {
+          "nom": "Commune Participative 8",
+          "type": "public",
+          "rôle": "soutien institutionnel"
+        }
+      ],
+      "dynamiques": [
+        "Projet de territoire numérique lancé en 2028",
+        "Forum citoyen annuel en place depuis 2027"
+      ],
+      "expérimentations": [
+        {
+          "nom": "Budget citoyen automatisé",
+          "porteur": "Commune Participative 8",
+          "description": "outil numérique d’arbitrage budgétaire collaboratif",
+          "état": "en test"
+        }
+      ]
+    },
+    {
+      "id": "T-009",
+      "nom": "Territoire-9",
+      "population": 240000,
+      "superficie_km2": 670,
+      "statut": "territoire en expérimentation stratégique",
+      "région": "Région-9",
+      "priorités": [
+        "inclusion numérique",
+        "gouvernance partagée",
+        "mobilité douce"
+      ],
+      "contraintes": [
+        "fracture numérique",
+        "isolement des aînés"
+      ],
+      "ressources": [
+        "plateformes numériques citoyennes",
+        "réseau de tiers-lieux"
+      ],
+      "acteurs": [
+        {
+          "nom": "Initiative Locale 9",
+          "type": "associatif",
+          "rôle": "animation numérique"
+        },
+        {
+          "nom": "Commune Participative 9",
+          "type": "public",
+          "rôle": "soutien institutionnel"
+        }
+      ],
+      "dynamiques": [
+        "Projet de territoire numérique lancé en 2029",
+        "Forum citoyen annuel en place depuis 2028"
+      ],
+      "expérimentations": [
+        {
+          "nom": "Budget citoyen automatisé",
+          "porteur": "Commune Participative 9",
+          "description": "outil numérique d’arbitrage budgétaire collaboratif",
+          "état": "en test"
+        }
+      ]
+    },
+    {
+      "id": "T-0010",
+      "nom": "Territoire-10",
+      "population": 250000,
+      "superficie_km2": 700,
+      "statut": "territoire en expérimentation stratégique",
+      "région": "Région-10",
+      "priorités": [
+        "inclusion numérique",
+        "gouvernance partagée",
+        "mobilité douce"
+      ],
+      "contraintes": [
+        "fracture numérique",
+        "isolement des aînés"
+      ],
+      "ressources": [
+        "plateformes numériques citoyennes",
+        "réseau de tiers-lieux"
+      ],
+      "acteurs": [
+        {
+          "nom": "Initiative Locale 10",
+          "type": "associatif",
+          "rôle": "animation numérique"
+        },
+        {
+          "nom": "Commune Participative 10",
+          "type": "public",
+          "rôle": "soutien institutionnel"
+        }
+      ],
+      "dynamiques": [
+        "Projet de territoire numérique lancé en 20210",
+        "Forum citoyen annuel en place depuis 2029"
+      ],
+      "expérimentations": [
+        {
+          "nom": "Budget citoyen automatisé",
+          "porteur": "Commune Participative 10",
+          "description": "outil numérique d’arbitrage budgétaire collaboratif",
+          "état": "en test"
+        }
+      ]
+    }
+  ]
+}

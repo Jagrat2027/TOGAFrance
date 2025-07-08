@@ -1,0 +1,12 @@
+input_format: "yaml"  # or json
+output_format: "markdown"  # or xlsx, html
+
+columns:
+  - role
+  - responsibility
+  - actor_type
+  - coordination_level
+
+include_metadata: true
+default_author: "TOGAFrance Core Team"
+default_date: "auto"

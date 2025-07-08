@@ -1,0 +1,9 @@
+source_language: "en"
+target_language: "fr"
+translation_engine: "openai"  # or deepl, google, argos
+preserve:
+  code_blocks: true
+  html_blocks: true
+exclude_patterns:
+  - "*.tmp.md"
+  - "drafts/"

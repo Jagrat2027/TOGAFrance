@@ -1,66 +1,68 @@
 # Outils pour TOGAFrance
 
-_Version française : ce dossier existe aussi en anglais : [README.md](./README.md)_
+_Une version anglaise est disponible : [README.md](./README.md)_
 
-Ce dossier regroupe tous les scripts, modèles et outils d’automatisation conçus pour faciliter la documentation et les retours d’expérience au sein du projet TOGAFrance.
-
----
-
-## Que pouvez-vous proposer ici ?
-
-- **Scripts d’automatisation** : conversion Markdown → PDF/Docx/Xlsx, synchronisation de traduction, générateur de modèles, etc.
-- **Modèles de documents** : en Markdown, Docx, Excel… pour aider les territoires pilotes à structurer leurs fichiers.
-- **Autres outils** : tout utilitaire permettant de partager, synthétiser ou visualiser les données ou documents du projet.
+Ce dossier rassemble tous les scripts, modèles et outils d’automatisation conçus pour aider les contributeurs et les territoires pilotes à produire, structurer ou synchroniser les documents et retours d’expérience dans le cadre de TOGAFrance.
 
 ---
 
-## Sous-dossiers
+## Que pouvez-vous proposer ici ?
 
-- `scripts/` : scripts et programmes d’automatisation/traitement
-- `templates/` : modèles de documents ou de rapports (simples, communautaires)
-- `docx/` : formats Word, Excel ou bureautique
+- **Scripts d’automatisation** : conversion Markdown → PDF/Docx/Xlsx, synchronisation de traductions, générateurs de modèles, etc.
+- **Modèles de documents** : en Markdown, Docx, Excel, pour aider les territoires à créer facilement leurs fichiers.
+- **Autres outils** : tout utilitaire facilitant le partage, le reporting ou la visualisation des données liées au projet.
+
+---
+
+## Dossiers
+
+- `scripts/` : scripts et programmes d’automatisation ou de traitement
+- `templates/` : modèles de rapports ou documents (simples et collaboratifs)
+- `docx/` : formats Word, Excel ou autres fichiers bureautiques
+
+Chaque script ou outil doit contenir un `README.md` dans son propre sous-dossier.
 
 ---
 
 ## Documentation & Kit de démarrage
 
-Tous les modèles et exemples principaux sont accessibles ici :
+Tous les modèles et exemples sont accessibles ici :
 
-- `/tools/templates/` : modèles de reporting communautaires (simples, adaptables)
-- `/examples/` : exemples concrets et documents TOGAF stricts (avec versioning et en-tête officiel)
-- `/documentation/` : guides de référence, glossaires, livret pratique complet
+- `/tools/templates/` : modèles de reporting communautaires (simples et adaptables)
+- `/examples/` : cas concrets et documents TOGAF stricts (versionnés, avec en-tête officiel)
+- `/documentation/` : guides de référence, glossaires et livret pratique complet
 
-**Bonnes pratiques :**
-- Utilisez le modèle adapté à votre contexte (modèle simple ou format TOGAF strict)
-- Pour les documents officiels ou institutionnels, référez-vous aux modèles TOGAF stricts du dossier `/examples`
-- Complétez toujours le numéro de version, l’auteur, le changelog pour un document formel
-- Reportez-vous à `NAMING-CONVENTION-FR.md` pour les règles de nommage
-- En cas de doute, posez une question ou proposez une amélioration !
-
----
-
-## Comment contribuer ?
-
-1. Proposez un script ou un modèle dans le bon sous-dossier.
-2. Ajoutez une courte documentation ou un en-tête commenté à votre fichier.
-3. Mettez à jour ce README si votre outil mérite d’être mis en avant.
-4. Partagez vos retours ou idées d’amélioration via une issue ou une pull request.
+**Bonnes pratiques :**
+- Choisissez le modèle le plus adapté à votre contexte (léger ou TOGAF strict)
+- Pour les documents officiels ou institutionnels, utilisez ceux du dossier `/examples`
+- Pensez à remplir le numéro de version, l’auteur et le changelog si le document est formel
+- Consultez `NAMING-CONVENTION-FR.md` pour les règles de nommage
+- En cas de doute, posez une question ou proposez une amélioration !
 
 ---
 
-## Besoins & Idées
+## Comment contribuer ?
 
-- ✅ Scripts de conversion Markdown → PDF / DOCX / XLSX
-- ✅ Scripts de traduction automatique (Markdown ↔️ EN/FR) avec synchronisation intelligente
-- 🧩 Générateurs de modèles : diagnostic, plan d’action, retour d’expérience (Markdown / Word / Excel)
-- 🔍 Aides à la rédaction : checklists contributeurs, guides de mise en forme
-- 📄 Données fictives ou exemples pour illustrer les cas d’usage (territoire, feuille de route, livrables)
-- 🔁 Script de surveillance inter-repôts : si une nouvelle version du **Programme2027** est mergée, proposer automatiquement une **issue** dans TOGAFrance (si cela impacte la vision ou les principes)
-- 🧪 Générateur de matrice des rôles ou de catalogue d’acteurs à partir de fichiers YAML/JSON
-- 🔗 Diagrammes générés automatiquement pour les cycles ADM et les flux de transformation
-- 🧠 Assistant IA ou prompt pré-entraîné pour aider les contributeurs à écrire dans l’esprit TOGAFrance
+1. Proposez un script ou un modèle dans le bon sous-dossier
+2. Ajoutez une courte documentation ou un en-tête commenté à votre fichier
+3. Mettez à jour ce README si votre outil mérite d’être mis en avant
+4. Partagez vos retours ou idées via une issue ou une pull request
 
-_Même une ébauche, un brouillon ou une idée partielle est la bienvenue. Co-construisons les communs._
+---
 
+## Besoins & Pistes
+
+- ✅ [Conversion Markdown → PDF / DOCX / XLSX](./scripts/generate-pdf/README-FR.md)
+- ✅ [Traduction automatique (Markdown ↔️ EN/FR)](./scripts/translate-md/README-FR.md)
+- 🧩 [Génération de modèles (diagnostic, plan, retour)](./scripts/generate-template/README-FR.md)
+- 🔍 [Outils de rédaction](../writing-tools/README-FR.md)
+- 📄 [Exemples et données factices](../fake-data/README-FR.md)
+- 🔁 [Surveillance inter-repo (Programme2027 → TOGAFrance)](./scripts/sync-programme2027/README-FR.md)
+- 🧪 [Matrice des rôles ou catalogue d’acteurs](./scripts/generate-role-matrix/README-FR.md)
+- 🔗 [Diagrammes automatiques](./scripts/generate-diagrams/README-FR.md)
+- 🧠 [Assistant IA (style TOGAFrance)](./scripts/tf-assistant/README-FR.md)
+
+
+_Même un brouillon, un prototype ou un travail en cours sont les bienvenus. Co-construisons les communs._
 
 ---
