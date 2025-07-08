@@ -57,6 +57,7 @@ then it will have already fulfilled its mission.
 - [TOGAFrance](#togafrance)
   - [Spirit of the Project — A Gift for the Future](#spirit-of-the-project--a-gift-for-the-future)
     - [For Those Who Will Come After Us](#for-those-who-will-come-after-us)
+  - [✨ Discover a concrete example](#-discover-a-concrete-example)
   - [Table of Contents](#table-of-contents)
   - [Why TOGAFrance?](#why-togafrance)
   - [Vision](#vision)
@@ -70,6 +71,7 @@ then it will have already fulfilled its mission.
   - [License](#license)
   - [Contacts](#contacts)
   - [Note](#note)
+  - [This is my gift to France for its national holiday. May it serve, inspire, and be surpassed by those who come after.](#this-is-my-gift-to-france-for-its-national-holiday-may-it-serve-inspire-and-be-surpassed-by-those-who-come-after)
 
 ---
 
@@ -191,6 +193,7 @@ Contact: [Jagrat2027](mailto:jagrat2027@gmail.com)
 
 TOGAFrance is an independent civic reinterpretation inspired by the TOGAF® framework. TOGAF is a registered trademark of The Open Group. TOGAFrance is not affiliated with or endorsed by The Open Group.
 
+This is my gift to France for its national holiday. May it serve, inspire, and be surpassed by those who come after.
 ---
 
 > “What we do must be just, clear, reversible, and possible to transmit.”

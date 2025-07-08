@@ -57,6 +57,7 @@ alors il aura déjà rempli sa mission.
 - [TOGAFrance](#togafrance)
   - [Esprit du projet — un cadeau pour l’avenir](#esprit-du-projet--un-cadeau-pour-lavenir)
     - [Pour ceux qui viendront après](#pour-ceux-qui-viendront-après)
+  - [✨ Exemple concret à découvrir](#-exemple-concret-à-découvrir)
   - [Sommaire](#sommaire)
   - [Pourquoi TOGAFrance ?](#pourquoi-togafrance)
   - [Vision](#vision)
@@ -187,6 +188,8 @@ Contact : [Jagrat2027](mailto:jagrat2027@gmail.com)
 ---
 
 TOGAFrance est une réinterprétation citoyenne indépendante inspirée du cadre TOGAF®. TOGAF est une marque déposée de The Open Group. TOGAFrance n’est ni affilié et ni soutenu par The Open Group.
+
+Mon cadeau à la France pour sa fête nationale. Qu’il serve, qu’il inspire, et qu’il soit dépassé par celles et ceux qui viendront après.
 
 ---
 
