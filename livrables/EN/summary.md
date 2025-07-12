@@ -8,31 +8,31 @@ Each deliverable has its dedicated `.md` file in English and French.
 
 ## List of Deliverables
 
-1. [Vision Document](./1_vision_document.md)  
+1. [Vision Document](./01_vision_document.md)  
    _Defines the purpose, long-term objectives, and ethical compass for the transformation._
 
-2. [Statement of Architecture Work](./2_architecture_work_statement.md)  
+2. [Statement of Architecture Work](./02_architecture_work_statement.md)  
    _Formalizes scope, responsibilities, resources, and initial schedule for the intervention._
 
-3. [National Needs Mapping](./3_national_needs_mapping.md)  
+3. [National Needs Mapping](./03_national_needs_mapping.md)  
    _Identifies, structures, and prioritizes needs across domains based on real feedback._
 
-4. [Business Architecture](./4_business_architecture.md)  
+4. [Business Architecture](./04_business_architecture.md)  
    _Describes current and target organizations, roles, missions, and service interactions._
 
-5. [Information Flows Architecture](./5_information_flows_architecture.md)  
+5. [Information Flows Architecture](./05_information_flows_architecture.md)  
    _Maps and optimizes how information, decisions, and knowledge circulate._
 
-6. [Technical/Sober Architecture](./6_technical_sober_architecture.md)  
+6. [Technical/Sober Architecture](./06_technical_sober_architecture.md)  
    _Describes technical infrastructures, tools, and ensures simplicity, durability, and accessibility._
 
-7. [Requirements Specification](./7_requirements_specification.md)  
+7. [Requirements Specification](./07_requirements_specification.md)  
    _Details all mandatory and desirable requirements for success and validation._
 
-8. [Consolidated Target Definition](./8_consolidated_target_definition.md)  
+8. [Consolidated Target Definition](./08_consolidated_target_definition.md)  
    _Synthesizes the shared, validated target state for the transformation._
 
-9. [Roadmap](./9_roadmap.md)  
+9. [Roadmap](./09_roadmap.md)  
    _Details major phases, milestones, actors, and priorities for deployment._
 
 10. [Migration Plan](./10_migration_plan.md)  

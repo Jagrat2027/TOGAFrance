@@ -8,31 +8,31 @@ Chaque livrable possède son fichier `.md` dédié en français et en anglais.
 
 ## Liste des livrables
 
-1. [Document de Vision](./1_document_de_vision.md)  
+1. [Document de Vision](./01_document_de_vision.md.md)  
    _Finalité, objectifs à long terme, cap éthique de la transformation._
 
-2. [Déclaration de travail d’architecture](./2_declaration_de_travail_architecture.md)  
+2. [Déclaration de travail d’architecture](./02_declaration_de_travail_architecture.md)  
    _Portée, responsabilités, ressources, calendrier initial de l’intervention._
 
-3. [Cartographie des besoins nationaux](./3_cartographie_besoins_nationaux.md)  
+3. [Cartographie des besoins nationaux](./03_cartographie_besoins_nationaux.md)  
    _Recense, structure et priorise les besoins réels de chaque domaine._
 
-4. [Architecture des services](./4_architecture_des_services.md)  
+4. [Architecture des services](./04_architecture_des_services.md)  
    _Décrit l’organisation actuelle et cible, les rôles, missions et interactions._
 
-5. [Architecture de la parole et des flux d’information](./5_architecture_parole_flux_information.md)  
+5. [Architecture de la parole et des flux d’information](./05_architecture_parole_flux_information.md)  
    _Cartographie et optimise la circulation des informations, décisions, savoirs._
 
-6. [Architecture technologique sobre](./6_architecture_technologique_sobre.md)  
+6. [Architecture technologique sobre](./06_architecture_technologique_sobre.md)  
    _Décrit les infrastructures, outils et solutions techniques dans une logique de sobriété et d’accessibilité._
 
-7. [Spécification des exigences](./7_specification_exigences.md)  
+7. [Spécification des exigences](./07_specification_exigences.md)  
    _Liste et détaille toutes les exigences obligatoires et souhaitées pour valider la transformation._
 
-8. [Définition cible consolidée](./8_definition_cible_consolidee.md)  
+8. [Définition cible consolidée](./08_definition_cible_consolidee.md)  
    _Synthèse claire et validée de l’état cible partagé de la transformation._
 
-9. [Feuille de route](./9_feuille_de_route.md)  
+9. [Feuille de route](./09_feuille_de_route.md)  
    _Étapes, jalons, acteurs, priorités du déploiement._
 
 10. [Plan de migration](./10_plan_de_migration.md)  
