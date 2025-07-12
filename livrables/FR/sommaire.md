@@ -8,7 +8,7 @@ Chaque livrable possède son fichier `.md` dédié en français et en anglais.
 
 ## Liste des livrables
 
-1. [Document de Vision](./01_document_de_vision.md.md)  
+1. [Document de Vision](./01_document_de_vision.md)  
    _Finalité, objectifs à long terme, cap éthique de la transformation._
 
 2. [Déclaration de travail d’architecture](./02_declaration_de_travail_architecture.md)  
