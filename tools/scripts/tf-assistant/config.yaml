@@ -1,0 +1,11 @@
+engine: "openai"  # or ollama, local, custom
+model: "gpt-4"  # or llama2, mistral, gpt-3.5
+
+language: "fr"  # default language
+temperature: 0.7
+max_tokens: 1024
+
+prompt_templates:
+  diagnostic_summary: "Rédige un résumé clair et structuré du diagnostic suivant :"
+  plan_structure: "Propose un plan d'action en respectant la méthodologie TOGAFrance"
+  style_rewrite: "Réécris ce texte dans un style sobre et rigoureux typique de TOGAFrance"

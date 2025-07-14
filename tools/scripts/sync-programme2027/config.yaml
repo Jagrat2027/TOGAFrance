@@ -1,0 +1,10 @@
+repositories:
+  source: "Programme2027"
+  target: "TOGAFrance"
+monitor:
+  branches: ["main", "vision"]
+  files: ["vision/", "principles/", "README.md"]
+  keywords: ["vision", "principles", "strategy"]
+notifications:
+  create_issue: true
+  assignee: "jf-dann"

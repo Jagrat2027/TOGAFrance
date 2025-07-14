@@ -1,0 +1,10 @@
+templates:
+  - name: "diagnosis"
+    formats: ["md", "docx"]
+    languages: ["fr", "en"]
+  - name: "action-plan"
+    formats: ["md", "xlsx"]
+    languages: ["fr"]
+defaults:
+  author: "TOGAFrance Contributor"
+  date: "auto"

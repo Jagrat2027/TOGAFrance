@@ -1,0 +1,13 @@
+input_format: "yaml"  # or json
+output_format: "svg"  # or png, mermaid
+
+diagram_type: "roadmap"  # or adm, dependency, matrix
+
+style:
+  theme: "toga-default"
+  color_scheme: "blue-gray"
+  layout: "left-to-right"
+
+export:
+  include_legend: true
+  include_title: true
