@@ -8,6 +8,9 @@ _Version française : ce dépôt existe aussi en anglais : [README.md](./README
 
 **TOGAFrance** est une méthode nationale de transformation, inspirée du cadre TOGAF (The Open Group Architecture Framework), adaptée pour refonder les services publics français, restaurer la confiance citoyenne et transmettre une vision éthique et durable du changement.
 
+**ACOS – Architecture Civique Open Source**
+Le TOGAF des multinationales cracké et rendu libre : un outil d’architecture pour que n’importe quel collectif, quartier ou village reprenne la main sur son avenir.
+
 ---
 
 ## Esprit du projet — un cadeau pour l’avenir
