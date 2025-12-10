@@ -8,6 +8,9 @@ _A French version is available: [README-FR.md](./README-FR.md)_
 
 **TOGAFrance** is a national transformation method, inspired by the TOGAF framework (The Open Group Architecture Framework), adapted to rebuild France’s public services, restore civic trust, and transmit an ethical, sustainable vision of change.
 
+**OSCA – Open Source Civic Architecture**
+The first civic adaptation of TOGAF – enterprise architecture turned into a commons tool for communities, neighborhoods, associations and small towns.
+
 ---
 
 ## Spirit of the Project — A Gift for the Future
