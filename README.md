@@ -1,6 +1,6 @@
 # TOGAFrance
 
-_A French version is available: [README-FR.md](./README-FR.md)_
+## _A French version is available: [README-FR.md](./README-FR.md)_
 
 [![Docs](https://img.shields.io/badge/docs-livrables-blue)](./livrables/)
 ![Langues](https://img.shields.io/badge/lang-FR%20%7C%20EN-orange)
