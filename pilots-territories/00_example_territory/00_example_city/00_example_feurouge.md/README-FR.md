@@ -16,7 +16,7 @@ Cet exemple montre comment appliquer la méthode TOGAFrance à une demande local
 - [Diagnostic initial](./initial_assessment-FR.md)
 - [Plan d’action](./action_plan-FR.md)
 - [Retour d’expérience](./feedback_report-FR.md)
-- [Livrables TOGAFrance (FR)](#livrables-togafrance-fr)
+- [Livrables TOGAFrance (FR)](./livrables/FR/)
 
 ### 🇬🇧 English
 
