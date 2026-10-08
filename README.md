@@ -144,6 +144,8 @@ Inspired by the TOGAF® framework, it recenters each phase around **citizen requ
 
 - [TOGAFrance Practical Guide](./medias/TOGAFrance_Practrical_Guide-EN.pdf)  
   _(Complete version: methodology and principles)_
+- [Le Cycle, a cooperative game to learn the method (French)](./jeu/README.md)
+- [Catalogue of human indicators](./documentation/11-human-indicators.md)
 - [Practical Vision for TOGAFrance](https://github.com/Jagrat2027/Programme2027)  
   _(Direct access to the full program, scenarios, and budget on the Programme2027 repository)_
 - [Livrables documentation](./livrables/README.md)  

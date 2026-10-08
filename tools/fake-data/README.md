@@ -5,11 +5,9 @@ This folder contains **fake but realistic datasets** for illustrating the tools 
 
 ## 📦 Contents
 
-- `territoire-fictif.yaml`  
-  Simulated territorial configuration (used for budgets, roadmaps, role matrices…)
-
-- `livrables-simulés.xlsx`  
-  Mock deliverables: synthetic plans, diagnostics, timelines (for export tests)
+- `territoires-fictifs.yaml` and `territoires-fictifs.json` (same data)  
+  10 distinct fictional territories: priorities, constraints, resources, actors, dynamics, experiments.
+  They also serve as territory cards for the game ["Le Cycle"](../../jeu/README.md).
 
 ## 🧪 Purpose
 

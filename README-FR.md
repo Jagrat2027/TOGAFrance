@@ -142,6 +142,8 @@ Inspiré du cadre TOGAF®, il recentre chaque phase sur les **exigences citoyenn
 
 - [Livret pratique TOGAFrance](./medias/TOGAFrance_Livret_Pratique.pdf)
   _(Version complète, méthodologie et principes)_
+- [Le Cycle, jeu coopératif pour apprendre la méthode](./jeu/README.md)
+- [Catalogue d’indicateurs humains](./documentation/11-indicateurs-humains-FR.md)
 - [Vision pratique pour TOGAFrance](https://github.com/Jagrat2027/Programme2027)  
   _(Accès direct au programme, scénarios et chiffrage sur le dépôt Programme2027)_
 - [Documentation des livrables](./livrables/README.md)  

@@ -1,0 +1,48 @@
+# Cartes du jeu « Le Cycle ».
+# Modifiez ce fichier puis lancez : python3 jeu/generer_cartes.py
+# Les cartes territoire viennent de tools/fake-data/territoires-fictifs.yaml.
+
+roles:
+  - nom: Le Passeur
+    symbole: "⇄"
+    devise: "Je relie les habitants aux institutions."
+    pouvoir: "Une fois par phase, annulez la perte de 1 Confiance."
+  - nom: Le Gardien
+    symbole: "⚖"
+    devise: "Je veille au respect des principes."
+    pouvoir: "Quand l'équipe refuse un Raccourci, gagnez 1 Confiance (le principe a tenu)."
+  - nom: Le Veilleur
+    symbole: "◉"
+    devise: "Je repère les signaux faibles."
+    pouvoir: "Une fois par phase, avant la pioche : regardez les 2 premières cartes Événement et glissez-en une sous la pioche."
+  - nom: Le Bâtisseur
+    symbole: "▦"
+    devise: "Je structure les outils et les réunions."
+    pouvoir: "Une fois par phase, une Avancée coûte 1 Moyen de moins."
+  - nom: Le Relieur
+    symbole: "∞"
+    devise: "Je connecte les initiatives isolées."
+    pouvoir: "Deux fois par partie, gagnez 2 Moyens en mobilisant une ressource du territoire voisin (une fois par ressource). Une fois par partie, retirez une Contrainte."
+
+evenements:
+  # type : crise | signal | raccourci | bonne | seuil
+  - {type: crise, titre: "Coupe budgétaire", texte: "La dotation baisse.", effet: "Perdez 2 Moyens."}
+  - {type: crise, titre: "Rumeur sur les réseaux", texte: "Une fausse information circule sur le projet.", effet: "Perdez 1 Confiance. Racontez en une phrase comment l'équipe répond : si les autres joueurs sont convaincus, annulez la perte."}
+  - {type: crise, titre: "Départ d'un agent clé", texte: "La personne qui connaissait tout part à la retraite.", effet: "Perdez 1 Moyen. Si personne n'a documenté la dernière phase (une phrase à voix haute), perdez aussi 1 Confiance."}
+  - {type: crise, titre: "Réunion à 18 h en semaine", texte: "Les familles qui travaillent ne peuvent pas venir.", effet: "Perdez 1 Confiance, ou dépensez 1 Moyen pour organiser une seconde réunion le samedi."}
+  - {type: crise, titre: "Formulaire en ligne obligatoire", texte: "Un tiers des habitants n'arrive pas à le remplir.", effet: "Perdez 1 Confiance, ou dépensez 2 Moyens pour ouvrir un guichet humain."}
+  - {type: signal, titre: "Un parent fronce les sourcils", texte: "Rien de grave… pour l'instant.", effet: "Dépensez 1 Moyen maintenant pour écouter, ou perdez 2 Confiance à la phase suivante."}
+  - {type: signal, titre: "Le registre des signalements s'allonge", texte: "Les mêmes plaintes reviennent.", effet: "Dépensez 1 Moyen maintenant, ou perdez 2 Confiance à la phase suivante."}
+  - {type: signal, titre: "Les agents ne voient plus le sens", texte: "Le moral baisse au guichet.", effet: "Dépensez 1 Moyen pour un temps collectif, ou perdez 1 Moyen à chacune des 2 phases suivantes."}
+  - {type: raccourci, titre: "Le consultant miracle", texte: "Un cabinet promet tout, clés en main.", effet: "Acceptez : +3 Moyens, et -2 Confiance à la phase 8. Refusez : rien ne se passe."}
+  - {type: raccourci, titre: "Décider sans consulter", texte: "On irait tellement plus vite.", effet: "Acceptez : +1 Avancée gratuite, et -2 Confiance à la phase 8. Refusez : rien ne se passe."}
+  - {type: raccourci, titre: "Le chiffre qui arrange", texte: "On pourrait présenter les résultats sous un meilleur jour.", effet: "Acceptez : +1 Confiance maintenant, et -3 Confiance à la phase 8. Refusez : rien ne se passe."}
+  - {type: bonne, titre: "Bénévoles en renfort", texte: "Le tissu associatif se mobilise.", effet: "Gagnez 2 Moyens."}
+  - {type: bonne, titre: "Un agent propose une idée", texte: "Le terrain devient un laboratoire.", effet: "Gagnez 1 Avancée sur la priorité de votre choix."}
+  - {type: bonne, titre: "Article dans le journal local", texte: "Le projet est raconté avec justesse.", effet: "Gagnez 1 Confiance."}
+  - {type: bonne, titre: "Le territoire voisin partage son retour d'expérience", texte: "Inutile de refaire leurs erreurs.", effet: "Gagnez 1 Moyen, ou 2 si le Relieur est en jeu."}
+  - {type: bonne, titre: "Une classe présente le projet aux adultes", texte: "Transmission inversée : les enfants expliquent.", effet: "Gagnez 1 Confiance. Si votre phrase de vision a été comprise par tous à la phase 2, gagnez-en 1 de plus."}
+  - {type: seuil, titre: "Seuil d'alerte franchi", texte: "L'indicateur d'une priorité passe au rouge.", effet: "Choisissez : persister (-2 Confiance) ou appliquer la réversibilité (retirez 1 Avancée de la priorité la plus avancée, Confiance inchangée ; +1 Confiance si vous dépensez 1 Moyen pour un rapport public)."}
+  - {type: seuil, titre: "Les usagers se plaignent du nouveau dispositif", texte: "Ce qui marchait sur le papier coince sur le terrain.", effet: "Choisissez : persister (-2 Confiance) ou appliquer la réversibilité (retirez 1 Avancée de la priorité la plus avancée, Confiance inchangée ; +1 Confiance si vous dépensez 1 Moyen pour un rapport public)."}
+  - {type: seuil, titre: "Effet inattendu", texte: "Une mesure aide les uns et gêne les autres.", effet: "Choisissez : persister (-2 Confiance) ou appliquer la réversibilité (retirez 1 Avancée de la priorité la plus avancée, Confiance inchangée ; +1 Confiance si vous dépensez 1 Moyen pour un rapport public)."}
+  - {type: crise, titre: "Intempéries", texte: "Les routes sont coupées une semaine.", effet: "Perdez 1 Moyen. Aucune Avancée ne peut être achetée pendant cette phase."}

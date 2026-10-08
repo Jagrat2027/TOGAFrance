@@ -93,219 +93,213 @@ territoires:
     description: réseau d’apprentissage en ville
     état: prototype validé
 - id: T-004
-  nom: Territoire-4
-  population: 190000
-  superficie_km2: 520
-  statut: territoire en expérimentation stratégique
-  région: Région-4
+  nom: Val-des-Écluses
+  population: 88000
+  superficie_km2: 610
+  statut: bourg fluvial vieillissant
+  région: Ouest Rivières
   priorités:
-  - inclusion numérique
-  - gouvernance partagée
-  - mobilité douce
+  - maintien à domicile des aînés
+  - accès aux services publics
+  - emploi local
   contraintes:
-  - fracture numérique
   - isolement des aînés
+  - fermeture des guichets
   ressources:
-  - plateformes numériques citoyennes
-  - réseau de tiers-lieux
+  - réseau d'aides à domicile
+  - port fluvial de plaisance
   acteurs:
-  - nom: Initiative Locale 4
+  - nom: Les Écluses Solidaires
     type: associatif
-    rôle: animation numérique
-  - nom: Commune Participative 4
+    rôle: visites aux aînés
+  - nom: Mairie de Val-des-Écluses
     type: public
-    rôle: soutien institutionnel
+    rôle: coordination
   dynamiques:
-  - Projet de territoire numérique lancé en 2024
-  - Forum citoyen annuel en place depuis 2023
+  - Maison France services ouverte en 2023
+  - Navette solidaire du marché
   expérimentations:
-  - nom: Budget citoyen automatisé
-    porteur: Commune Participative 4
-    description: outil numérique d’arbitrage budgétaire collaboratif
-    état: en test
+  - nom: Café des aidants
+    porteur: Les Écluses Solidaires
+    description: rencontre mensuelle des aidants familiaux
+    état: en cours
 - id: T-005
-  nom: Territoire-5
-  population: 200000
-  superficie_km2: 550
-  statut: territoire en expérimentation stratégique
-  région: Région-5
+  nom: Plateau-Ardent
+  population: 64000
+  superficie_km2: 1240
+  statut: rural agricole sous tension climatique
+  région: Centre Plateaux
   priorités:
-  - inclusion numérique
-  - gouvernance partagée
-  - mobilité douce
+  - gestion de l'eau
+  - transmission des fermes
+  - accès aux soins primaires
   contraintes:
-  - fracture numérique
-  - isolement des aînés
+  - sécheresses répétées
+  - départs à la retraite des agriculteurs
   ressources:
-  - plateformes numériques citoyennes
-  - réseau de tiers-lieux
+  - chambre d'agriculture engagée
+  - réseau de mutualisation de matériel
   acteurs:
-  - nom: Initiative Locale 5
+  - nom: Collectif Eau Commune
     type: associatif
-    rôle: animation numérique
-  - nom: Commune Participative 5
+    rôle: médiation sur l'eau
+  - nom: Communauté de communes
     type: public
-    rôle: soutien institutionnel
+    rôle: planification
   dynamiques:
-  - Projet de territoire numérique lancé en 2025
-  - Forum citoyen annuel en place depuis 2024
+  - Plan local de partage de l'eau (2025)
   expérimentations:
-  - nom: Budget citoyen automatisé
-    porteur: Commune Participative 5
-    description: outil numérique d’arbitrage budgétaire collaboratif
+  - nom: Banque de terres agricoles
+    porteur: Communauté de communes
+    description: mise en relation cédants et repreneurs
     état: en test
 - id: T-006
-  nom: Territoire-6
-  population: 210000
-  superficie_km2: 580
-  statut: territoire en expérimentation stratégique
-  région: Région-6
+  nom: Port-Lumière
+  population: 315000
+  superficie_km2: 210
+  statut: ville portuaire en reconversion
+  région: Littoral Sud
   priorités:
-  - inclusion numérique
-  - gouvernance partagée
-  - mobilité douce
+  - emploi des jeunes
+  - logement abordable
+  - qualité de l'air
   contraintes:
-  - fracture numérique
-  - isolement des aînés
+  - désindustrialisation
+  - pression touristique saisonnière
   ressources:
-  - plateformes numériques citoyennes
-  - réseau de tiers-lieux
+  - école de la marine
+  - quartiers associatifs actifs
   acteurs:
-  - nom: Initiative Locale 6
-    type: associatif
-    rôle: animation numérique
-  - nom: Commune Participative 6
+  - nom: Docks Avenir
+    type: entreprise sociale
+    rôle: insertion professionnelle
+  - nom: Métropole de Port-Lumière
     type: public
-    rôle: soutien institutionnel
+    rôle: pilotage
   dynamiques:
-  - Projet de territoire numérique lancé en 2026
-  - Forum citoyen annuel en place depuis 2025
+  - Reconversion des anciens docks
   expérimentations:
-  - nom: Budget citoyen automatisé
-    porteur: Commune Participative 6
-    description: outil numérique d’arbitrage budgétaire collaboratif
-    état: en test
+  - nom: Bus de l'emploi
+    porteur: Docks Avenir
+    description: permanences mobiles dans les quartiers
+    état: en cours
 - id: T-007
-  nom: Territoire-7
-  population: 220000
-  superficie_km2: 610
-  statut: territoire en expérimentation stratégique
-  région: Région-7
+  nom: Hautes-Combes
+  population: 29000
+  superficie_km2: 890
+  statut: montagne enclavée, économie saisonnière
+  région: Est Montagnes
   priorités:
+  - mobilité hors saison
+  - école de proximité
   - inclusion numérique
-  - gouvernance partagée
-  - mobilité douce
   contraintes:
+  - routes coupées l'hiver
   - fracture numérique
-  - isolement des aînés
   ressources:
-  - plateformes numériques citoyennes
-  - réseau de tiers-lieux
+  - tiers-lieu d'altitude
+  - solidarités villageoises fortes
   acteurs:
-  - nom: Initiative Locale 7
+  - nom: Les Combes Connectées
     type: associatif
-    rôle: animation numérique
-  - nom: Commune Participative 7
+    rôle: médiation numérique
+  - nom: Syndicat de vallée
     type: public
-    rôle: soutien institutionnel
+    rôle: transports
   dynamiques:
-  - Projet de territoire numérique lancé en 2027
-  - Forum citoyen annuel en place depuis 2026
+  - Transport à la demande depuis 2024
   expérimentations:
-  - nom: Budget citoyen automatisé
-    porteur: Commune Participative 7
-    description: outil numérique d’arbitrage budgétaire collaboratif
+  - nom: Classe multi-niveaux partagée
+    porteur: Syndicat de vallée
+    description: école en réseau entre trois villages
     état: en test
 - id: T-008
-  nom: Territoire-8
-  population: 230000
-  superficie_km2: 640
-  statut: territoire en expérimentation stratégique
-  région: Région-8
+  nom: Cité-Neuve
+  population: 178000
+  superficie_km2: 95
+  statut: banlieue jeune et dense
+  région: Couronne Nord
   priorités:
-  - inclusion numérique
-  - gouvernance partagée
-  - mobilité douce
+  - réussite scolaire
+  - sécurité du quotidien
+  - accès aux droits
   contraintes:
-  - fracture numérique
-  - isolement des aînés
+  - non-recours aux droits
+  - tension sur le logement
   ressources:
-  - plateformes numériques citoyennes
-  - réseau de tiers-lieux
+  - réseau de médiateurs
+  - centres sociaux implantés
   acteurs:
-  - nom: Initiative Locale 8
+  - nom: Médiateurs de Cité-Neuve
     type: associatif
-    rôle: animation numérique
-  - nom: Commune Participative 8
+    rôle: médiation de rue
+  - nom: Ville de Cité-Neuve
     type: public
-    rôle: soutien institutionnel
+    rôle: politique de la ville
   dynamiques:
-  - Projet de territoire numérique lancé en 2028
-  - Forum citoyen annuel en place depuis 2027
+  - Programme de réussite éducative
   expérimentations:
-  - nom: Budget citoyen automatisé
-    porteur: Commune Participative 8
-    description: outil numérique d’arbitrage budgétaire collaboratif
-    état: en test
+  - nom: Permanence d'accès aux droits
+    porteur: Centres sociaux
+    description: aide aux démarches sans écran
+    état: en cours
 - id: T-009
-  nom: Territoire-9
-  population: 240000
-  superficie_km2: 670
-  statut: territoire en expérimentation stratégique
-  région: Région-9
+  nom: Marais-Doux
+  population: 52000
+  superficie_km2: 730
+  statut: zone humide, tourisme vert
+  région: Ouest Littoral
   priorités:
-  - inclusion numérique
-  - gouvernance partagée
+  - préservation des zones humides
+  - circuits courts
   - mobilité douce
   contraintes:
-  - fracture numérique
-  - isolement des aînés
+  - submersions marines
+  - conflits d'usage de l'eau
   ressources:
-  - plateformes numériques citoyennes
-  - réseau de tiers-lieux
+  - parc naturel régional
+  - producteurs locaux organisés
   acteurs:
-  - nom: Initiative Locale 9
-    type: associatif
-    rôle: animation numérique
-  - nom: Commune Participative 9
+  - nom: Parc naturel du Marais
     type: public
-    rôle: soutien institutionnel
+    rôle: préservation
+  - nom: Coopérative des producteurs
+    type: coopérative
+    rôle: circuits courts
   dynamiques:
-  - Projet de territoire numérique lancé en 2029
-  - Forum citoyen annuel en place depuis 2028
+  - Charte du parc renouvelée en 2024
   expérimentations:
-  - nom: Budget citoyen automatisé
-    porteur: Commune Participative 9
-    description: outil numérique d’arbitrage budgétaire collaboratif
-    état: en test
-- id: T-0010
-  nom: Territoire-10
-  population: 250000
-  superficie_km2: 700
-  statut: territoire en expérimentation stratégique
-  région: Région-10
+  - nom: Plan de recul du trait de côte
+    porteur: Parc naturel du Marais
+    description: relocalisation progressive
+    état: en étude
+- id: T-010
+  nom: Ville-Carrefour
+  population: 96000
+  superficie_km2: 140
+  statut: ville moyenne de passage
+  région: Centre Axes
   priorités:
-  - inclusion numérique
+  - revitalisation du centre-ville
   - gouvernance partagée
-  - mobilité douce
+  - transition énergétique
   contraintes:
-  - fracture numérique
-  - isolement des aînés
+  - vacance commerciale
+  - dépendance à la voiture
   ressources:
-  - plateformes numériques citoyennes
-  - réseau de tiers-lieux
+  - gare rénovée
+  - réseau de commerçants engagés
   acteurs:
-  - nom: Initiative Locale 10
+  - nom: Union des commerçants
     type: associatif
-    rôle: animation numérique
-  - nom: Commune Participative 10
+    rôle: animation du centre
+  - nom: Ville-Carrefour
     type: public
-    rôle: soutien institutionnel
+    rôle: urbanisme
   dynamiques:
-  - Projet de territoire numérique lancé en 20210
-  - Forum citoyen annuel en place depuis 2029
+  - Opération cœur de ville
   expérimentations:
-  - nom: Budget citoyen automatisé
-    porteur: Commune Participative 10
-    description: outil numérique d’arbitrage budgétaire collaboratif
-    état: en test
+  - nom: Budget participatif
+    porteur: Ville-Carrefour
+    description: 1 % du budget décidé par les habitants
+    état: en cours

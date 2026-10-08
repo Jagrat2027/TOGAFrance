@@ -5,11 +5,9 @@ Ce dossier contient des **données factices mais réalistes** permettant de simu
 
 ## 📦 Contenu
 
-- `territoire-fictif.yaml`  
-  Configuration simulée d’un territoire (utilisée pour les budgets, feuilles de route, matrices d’acteurs…)
-
-- `livrables-simulés.xlsx`  
-  Fichier factice contenant plans synthétiques, diagnostics, plannings (utilisé pour tester les exports)
+- `territoires-fictifs.yaml` et `territoires-fictifs.json` (mêmes données)  
+  10 territoires fictifs et distincts : priorités, contraintes, ressources, acteurs, dynamiques, expérimentations.
+  Ils servent aussi de cartes territoire au jeu [« Le Cycle »](../../jeu/README.md).
 
 ## 🧪 Finalité
 
