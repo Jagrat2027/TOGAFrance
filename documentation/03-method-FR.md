@@ -40,7 +40,7 @@ La méthode TOGAFrance adapte le cycle classique ADM de TOGAF en un **processus 
 Chaque phase a un rôle clair et produit des livrables concrets, simples et partageables.  
 Voici l’interprétation TOGAFrance des grandes étapes du cycle :
 
-![Cycle ADM TOGAFrance](../medias/images/Cycle%20ADM%20TOGAFrance%20(Français).1.png)
+![Cycle ADM TOGAFrance](../medias/images/Cycle%20ADM%20TOGAFrance%20%28Franc%CC%A7ais%29.1.png)
 
 ---
 
@@ -158,7 +158,7 @@ Chaque territoire peut adapter cette carte des rôles. Une **matrice de rôles**
 
 ## Pour aller plus loin
 
-- [Lexique](./08-glossaire-FR.md) — Définitions des mots clés (catalogue, matrice de rôles, réversibilité…)
+- [Lexique](./08-glossary-FR.md) — Définitions des mots clés (catalogue, matrice de rôles, réversibilité…)
 - [FAQ](./09-faq-FR.md) — Réponses aux questions fréquentes
 - [Exemples vivants](../pilots-territories/) — Retours d’expérience de territoires pilotes
 - [Modèles](../tools/templates/) — Pour commencer facilement
@@ -171,4 +171,4 @@ Chaque territoire peut adapter cette carte des rôles. Une **matrice de rôles**
 
 ---
 
-_Prochain chapitre : [04-pour-qui.md](./04-pour-qui.md)_
+_Prochain chapitre : [04-for-whom-FR.md](./04-for-whom-FR.md)_

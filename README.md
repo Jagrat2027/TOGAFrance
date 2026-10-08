@@ -136,7 +136,7 @@ TOGAFrance is not a technocratic program: it is for everyone who wants to unders
 Below is the transformation cycle as interpreted by the TOGAFrance method.  
 Inspired by the TOGAF® framework, it recenters each phase around **citizen requirements**, in an iterative, transparent, and reproducible approach.
 
-![ADM Cycle TOGAFrance (English)](<./medias/images/Cycle%20ADM%20TOGAFrance%20(Anglais).1.png>)
+![ADM Cycle TOGAFrance (English)](./medias/images/Cycle%20ADM%20TOGAFrance%20%28Anglais%29.1.png)
 
 ---
 

@@ -12,7 +12,7 @@ Les annexes sont évolutives. Vous pouvez proposer des ajouts via [issues](https
 
 ## 📎 A. Liens essentiels
 
-- [Guide pratique TOGAFrance (PDF)](../documentation/TOGAFrance_Livret_Pratique.pdf)
+- [Guide pratique TOGAFrance (PDF)](../medias/TOGAFrance_Livret_Pratique.pdf)
 - [Présentation du programme J-2027](https://www.jagrat.fr/programme-2027/)
 - [Dépôt GitHub : Programme 2027](https://github.com/Jagrat2027/Programme2027)
 - [Dépôt TOGAFrance (GitHub)](https://github.com/Jagrat2027/TOGAFrance)
@@ -47,7 +47,7 @@ Disponibles dans [`/medias`](../medias) :
 
 ## 📄 D. Exemples et territoires pilotes
 
-Disponibles bientôt dans [`/examples`](../examples) :
+Disponibles dans [`/pilots-territories/examples-pilots`](../pilots-territories/examples-pilots) :
 
 - Diagnostic réel d’un territoire test  
 - Plan d’action commenté  
@@ -89,3 +89,6 @@ L’historique complet des modifications est visible dans les [commits GitHub](h
 > TOGAFrance n’est pas qu’une méthode.  
 > C’est un chemin de reconstruction partagé.  
 > Rejoignez le mouvement — ou lancez votre propre pilote.
+
+
+_Chapitre suivant : [11-indicateurs-humains-FR.md](./11-indicateurs-humains-FR.md)_

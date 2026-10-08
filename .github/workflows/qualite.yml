@@ -1,0 +1,21 @@
+name: Qualité TOGAFrance
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verifier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      # Échoue sur un lien cassé ou une chaîne de traçabilité incomplète.
+      # Le « défi des 10 ans » (lisibilité) s'affiche dans le résumé du job.
+      - run: python3 tools/qualite/verifier.py

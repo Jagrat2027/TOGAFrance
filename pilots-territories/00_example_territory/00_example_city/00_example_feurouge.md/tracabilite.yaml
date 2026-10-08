@@ -1,0 +1,45 @@
+# Traçabilité — Feu rouge devant l'école
+# Besoin → exigence → validation / indicateur → seuil de réversibilité.
+# Vérifié par tools/qualite/verifier.py (GitHub Action « Qualité TOGAFrance »).
+
+besoins:
+  - id: B-01
+    libelle: "Sécurité des enfants à l'entrée et à la sortie de l'école"
+    source: livrables/FR/01_document_de_vision.md
+  - id: B-02
+    libelle: "Accessibilité pour toutes et tous, y compris les personnes à mobilité réduite"
+    source: livrables/FR/07_specification_exigences.md
+  - id: B-03
+    libelle: "Sobriété et durabilité de l'équipement"
+    source: livrables/FR/06_architecture_technologique_sobre.md
+
+exigences:            # identifiants présents dans livrables/FR/07_specification_exigences.md
+  - {id: EX-01, besoin: B-01, priorite: obligatoire, verifiee_par: [IND-01]}
+  - {id: EX-02, besoin: B-02, priorite: souhaitee, verifiee_par: [IND-06]}
+  - {id: EX-03, besoin: B-03, priorite: obligatoire, verifiee_par: [IND-05]}
+  - {id: EX-04, besoin: B-01, priorite: obligatoire, verifiee_par: [TEST-planning]}
+  - {id: EX-05, besoin: B-02, priorite: souhaitee, verifiee_par: [IND-03]}
+  - {id: EX-06, besoin: B-02, priorite: obligatoire, verifiee_par: [IND-06]}
+  - {id: EX-07, besoin: B-03, priorite: optionnelle, verifiee_par: []}
+  - id: EX-08
+    besoin: B-02
+    priorite: obligatoire
+    verifiee_par: [IND-06]
+    origine: "Retour d'expérience du 01/09/25 (livrable 14)"
+
+indicateurs:          # voir documentation/11-indicateurs-humains-FR.md
+  - {id: IND-01, libelle: "Incidents signalés devant l'école", unite: "incidents / 6 mois", source: "Police municipale, parents", catalogue: H-07}
+  - {id: IND-02, libelle: "Délai de réparation d'une panne", unite: jours, source: "Service technique", catalogue: H-02}
+  - {id: IND-03, libelle: "Familles satisfaites", unite: "%", source: "Enquête familles", catalogue: H-06}
+  - {id: IND-04, libelle: "Actes de dégradation", unite: "actes / 3 mois", source: "Police, riverains"}
+  - {id: IND-05, libelle: "Consommation électrique", unite: "kWh / an", source: "Relevé fournisseur"}
+  - {id: IND-06, libelle: "Avis des usagers PMR", unite: "avis favorable oui/non", source: "Référent PMR", catalogue: H-05}
+
+reversibilite:        # identifiants présents dans livrables/FR/13_fiches_de_reversibilite.md
+  - {id: REV-01, indicateur: IND-01, seuil: "> 2 incidents / 6 mois"}
+  - {id: REV-02, indicateur: IND-02, seuil: "> 7 jours"}
+  - {id: REV-03, indicateur: IND-03, seuil: "< 60 %"}
+  - {id: REV-04, indicateur: IND-04, seuil: "≥ 2 actes / 3 mois"}
+
+verifications_hors_indicateur:   # validations ponctuelles, sans suivi dans le temps
+  - TEST-planning

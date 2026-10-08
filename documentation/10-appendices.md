@@ -1,6 +1,6 @@
 # 10 – Appendices
 
-_A French version is available: [10-annexes-FR.md](./10-annexes-FR.md)_
+_A French version is available: [10-appendices-FR.md](./10-appendices-FR.md)_
 
 ---
 
@@ -12,7 +12,7 @@ The appendices are evolving. You may suggest additions via [issues](https://gith
 
 ## 📎 A. Key Links
 
-- [TOGAFrance Practical Guide (PDF)](../documentation/TOGAFrance_Livret_Pratique.pdf)
+- [TOGAFrance Practical Guide (PDF)](../medias/TOGAFrance_Practrical_Guide-EN.pdf)
 - [Jagrat 2027 Program Overview](https://www.jagrat.fr/programme-2027/)
 - [GitHub Repository: Programme 2027](https://github.com/Jagrat2027/Programme2027)
 - [Live TOGAFrance repository](https://github.com/Jagrat2027/TOGAFrance)
@@ -47,7 +47,7 @@ Available in [`/medias`](../medias):
 
 ## 📄 D. Examples & Pilots
 
-Available soon in [`/examples`](../examples):
+Available in [`/pilots-territories/examples-pilots`](../pilots-territories/examples-pilots):
 
 - Completed diagnosis from test territory  
 - Annotated action plan  
@@ -90,3 +90,6 @@ Change history and major evolutions are tracked via [GitHub commits](https://git
 > It’s a shared reconstruction journey.  
 > Join the movement — or start your own pilot.
 
+
+
+_Next chapter: [11-human-indicators.md](./11-human-indicators.md)_

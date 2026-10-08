@@ -16,11 +16,20 @@ _Cette feuille de route présente les principales étapes, les tâches en cours 
 
 ## 📂 Structure actuelle du dépôt
 
-- `/medias` : Ressources visuelles (logos, schémas)
-- `/documentation` : Guides, principes, lexiques, FAQ
-- `/examples` : Modèles (diagnostic, plan d’action, rapport d’expérience), exemples remplis
-- `/tools` : Scripts d’automatisation et de traduction, générateurs PDF/Docx/Xlsx
-- `/pilots` : Expérimentations et retours des territoires
+- `/documentation` : guides, principes, lexique, FAQ
+- `/livrables` : les 15 fiches-livrables de la méthode (FR / EN)
+- `/pilots-territories` : exemple complet (feu rouge devant une école) et modèles de pilote
+- `/tools/templates` : modèles vierges des 15 livrables
+- `/tools/qualite` : contrôles automatiques (liens, traçabilité, lisibilité)
+- `/tools/fake-data` : territoires fictifs pour s’exercer
+- `/jeu` : « Le Cycle », jeu coopératif pour apprendre la méthode
+- `/medias` : livret pratique, schémas du cycle ADM
+
+## 📍 Point d’étape — octobre 2026
+
+- Le jalon « outils essentiels, été 2026 » est **partiellement atteint** : les modèles et le contrôle qualité sont
+  opérationnels ; les scripts de `tools/scripts/` restent des squelettes, signalés 🧩 dans `tools/README-FR.md`.
+- Ajouts : traçabilité des exigences, catalogue d’indicateurs humains, seuils de réversibilité, jeu « Le Cycle ».
 
 ---
 
@@ -57,7 +66,7 @@ _Cette feuille de route présente les principales étapes, les tâches en cours 
 - [ ] Collecter, relire et partager les rapports d’expérimentation
 
 ### **Gouvernance & bonnes pratiques**
-- [ ] Publier et maintenir les fichiers CODE_OF_CONDUCT et GOVERNANCE
+- [x] Publier les fichiers CODE_OF_CONDUCT et GOVERNANCE
 - [ ] Définir des labels pour les issues/PR
 - [ ] Assurer une collaboration ouverte, respectueuse et inclusive
 

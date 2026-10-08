@@ -1,6 +1,6 @@
 # 06 – Contributing to TOGAFrance
 
-*A French version is available here: [06-contribuer-FR.md](./06-contribuer-FR.md)*
+*A French version is available here: [06-contributing-FR.md](./06-contributing-FR.md)*
 
 ---
 

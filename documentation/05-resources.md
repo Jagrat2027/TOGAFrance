@@ -12,7 +12,7 @@ TOGAFrance provides a growing set of **open, modular resources** to help every a
 
 | Resource                     | Description                                                        |
 |-----------------------------|--------------------------------------------------------------------|
-| [TOGAFrance Practical Guide (PDF)](../documentation/TOGAFrance_Livret_Pratique.pdf) | Foundational reference document |
+| [TOGAFrance Practical Guide (PDF)](../medias/TOGAFrance_Practrical_Guide-EN.pdf) | Foundational reference document |
 | [Vision & Founding Principles](./02-vision.md)               | Core compass of the method                                       |
 | [The TOGAFrance Method](./03-method.md)                      | Explanation of the approach, cycle, and values                  |
 | [J-2027 Program – Website](https://www.jagrat.fr/programme-2027/) | Policy foundation, source of the strategic vision             |
@@ -22,7 +22,7 @@ TOGAFrance provides a growing set of **open, modular resources** to help every a
 
 ## 🧰 2. Templates & Examples
 
-Available in the [`/examples`](../examples) and [`/tools/templates`](../tools/templates) folders:
+Available in the [`/pilots-territories/examples-pilots`](../pilots-territories/examples-pilots) and [`/tools/templates`](../tools/templates) folders:
 
 | Document                    | Formats Available         | Notes                                       |
 |----------------------------|---------------------------|---------------------------------------------|
@@ -39,7 +39,7 @@ All documents are reusable, versioned, and designed for transparency and clarity
 
 TOGAFrance reinterprets the **ADM (Architecture Development Method)** from TOGAF into a **5-phase living cycle**:
 
-![Cycle ADM TOGAFrance](../medias/images/ADM_TOGAFrance.png)
+![Cycle ADM TOGAFrance](../medias/images/Cycle%20ADM%20TOGAFrance%20%28Anglais%29.1.png)
 
 
 Each phase produces deliverables, which follow the **TOGAF-inspired Content Framework** (see [Chapter 3](./03-method.md)).
@@ -104,7 +104,7 @@ Each tool includes usage instructions and a comment header.
 | Folder             | Contents                                         |
 |--------------------|--------------------------------------------------|
 | `/documentation`   | Guides, principles, lexicons                     |
-| `/examples`        | Sample files from real or fictional pilots       |
+| `/pilots-territories/examples-pilots`        | Sample files from real or fictional pilots       |
 | `/tools/templates` | Templates for diagnostics, reports, action plans |
 | `/medias`          | Diagrams, infographics, logos                    |
 

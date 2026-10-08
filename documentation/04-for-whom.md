@@ -1,6 +1,6 @@
 # For Whom Is TOGAFrance Designed?
 
-*A French version of this page is available: [04-pour-qui.md](./04-pour-qui.md)*
+*A French version of this page is available: [04-for-whom-FR.md](./04-for-whom-FR.md)*
 
 ---
 

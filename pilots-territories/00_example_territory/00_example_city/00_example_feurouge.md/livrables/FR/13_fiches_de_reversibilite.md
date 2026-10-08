@@ -17,12 +17,12 @@ Documenter les conditions et la procédure pour annuler, suspendre ou adapter la
 
 ## c) Conditions et seuils d’alerte
 
-| Indicateur ou événement déclencheur      | Seuil               | Source de l’alerte            |
-| ---------------------------------------- | ------------------- | ----------------------------- |
-| Augmentation des incidents malgré le feu | >2 incidents/6 mois | Police municipale, parents    |
-| Panne technique non réparée sous 7 jours | 1 alerte            | Service technique, familles   |
-| Forte insatisfaction des usagers         | <60% satisfaits     | Enquête familles, école       |
-| Dégradation volontaire répétée           | 2+ actes en 3 mois  | Signalement police, riverains |
+| ID     | Indicateur ou événement déclencheur      | Seuil               | Source de l’alerte            |
+| ------ | ---------------------------------------- | ------------------- | ----------------------------- |
+| REV-01 | Augmentation des incidents malgré le feu | >2 incidents/6 mois | Police municipale, parents    |
+| REV-02 | Panne technique non réparée sous 7 jours | 1 alerte            | Service technique, familles   |
+| REV-03 | Forte insatisfaction des usagers         | <60% satisfaits     | Enquête familles, école       |
+| REV-04 | Dégradation volontaire répétée           | 2+ actes en 3 mois  | Signalement police, riverains |
 
 ## d) Procédure de retour en arrière ou d’ajustement
 

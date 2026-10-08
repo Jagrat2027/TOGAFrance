@@ -18,7 +18,8 @@ This folder gathers all scripts, templates, and automation tools designed to hel
 
 - `scripts/`: code/scripts for automation or processing
 - `templates/`: document or report templates (community-friendly, lightweight)
-- `docx/`: Word, Excel, or other office formats
+- `qualite/`: automated repository checks (links, traceability, readability)
+- `fake-data/`: fictional territories for practice (and for the game)
 
 Each script/tool should include its own `README.md` inside its folder.
 
@@ -29,12 +30,12 @@ Each script/tool should include its own `README.md` inside its folder.
 All main templates and examples are available in:
 
 - `/tools/templates/` : community reporting templates (simple, adaptable)
-- `/examples/` : real-world cases and strict TOGAF-style documents (versioned, with official headers)
+- `/pilots-territories/` : real-world cases, including the full traffic-light example
 - `/documentation/` : reference guides, glossaries, and the full practical handbook
 
 **Best practices:**
 - Use the template best suited to your context (lightweight or strict TOGAF format)
-- For official or institutional documents, refer to strict TOGAF models from `/examples`
+- For official or institutional documents, start from `/tools/templates/` and the full example in `/pilots-territories/`
 - Always fill in version, author, and changelog if using a formal document
 - Check `NAMING-CONVENTION.md` for file naming rules
 - When in doubt, ask or propose an improvement!
@@ -52,15 +53,18 @@ All main templates and examples are available in:
 
 ## Needs & Ideas
 
-- ✅ [Markdown → PDF / DOCX / XLSX](./scripts/generate-pdf/README.md)
-- ✅ [Automatic translation scripts (Markdown ↔️ EN/FR)](./scripts/translate-md/README.md)
+Status: ✅ working · 🧩 skeleton to build (the file exists, the logic is still to write)
+
+- ✅ [Quality checks: links, traceability, readability](./qualite/README.md)
+- 🧩 [Markdown → PDF / DOCX / XLSX](./scripts/generate-pdf/README.md)
+- 🧩 [Automatic translation scripts (Markdown ↔️ EN/FR)](./scripts/translate-md/README.md)
 - 🧩 [Template generators](./scripts/generate-template/README.md)
-- 🔍 [Writing helpers](../writing-tools/README.md)
-- 📄 [Fake/example data](../fake-data/README.md)
-- 🔁 [Cross-repo monitoring script](./scripts/sync-programme2027/README.md)
-- 🧪 [Role matrix / actor catalog](./scripts/generate-role-matrix/README.md)
-- 🔗 [Auto-generated diagrams](./scripts/generate-diagrams/README.md)
-- 🧠 [AI assistant (TOGAFrance style)](./scripts/tf-assistant/README.md)
+- ✅ [Writing helpers](./writing-tools/README.md)
+- ✅ [Fake/example data](./fake-data/README.md)
+- 🧩 [Cross-repo monitoring script](./scripts/sync-programme2027/README.md)
+- 🧩 [Role matrix / actor catalog](./scripts/generate-role-matrix/README.md)
+- 🧩 [Auto-generated diagrams](./scripts/generate-diagrams/README.md)
+- 🧩 [AI assistant (TOGAFrance style)](./scripts/tf-assistant/README.md)
 
 
 

@@ -91,7 +91,7 @@ This project is living, evolving, and open to all contributions that respect its
 
 ## Useful Resources
 
-- [TOGAFrance Practical Guide](./TOGAFrance_Livret_Pratique.pdf)
+- [TOGAFrance Practical Guide](./medias/TOGAFrance_Livret_Pratique.pdf)
 - [Vision / Program](https://github.com/Jagrat2027/Programme2027)
 - Diagnosis templates, roadmap, experience report… *(coming soon in the `/tools` or `/docs` folders)*
 

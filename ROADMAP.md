@@ -16,11 +16,20 @@ _This roadmap tracks the key milestones, open tasks, and contribution opportunit
 
 ## 📂 Current Repository Structure
 
-- `/medias`: Visual assets (logos, diagrams)
-- `/documentation`: Guides, principles, glossaries, FAQs
-- `/examples`: Templates (diagnosis, action plan, feedback report), filled-in samples
-- `/tools`: Automation and translation scripts, PDF/Docx/Xlsx generators
-- `/pilots`: Territory experimentation and feedback
+- `/documentation`: guides, principles, glossary, FAQ
+- `/livrables`: the method's 15 deliverable sheets (FR / EN)
+- `/pilots-territories`: full example (traffic light outside a school) and pilot templates
+- `/tools/templates`: blank templates for the 15 deliverables
+- `/tools/qualite`: automated checks (links, traceability, readability)
+- `/tools/fake-data`: fictional territories for practice
+- `/jeu`: "Le Cycle", a cooperative game to learn the method (French)
+- `/medias`: practical guide, ADM cycle diagrams
+
+## 📍 Checkpoint — October 2026
+
+- The "essential tools, summer 2026" milestone is **partly met**: templates and quality checks work;
+  the scripts in `tools/scripts/` are still skeletons, flagged 🧩 in `tools/README.md`.
+- Added: requirements traceability, a catalogue of human indicators, reversibility triggers, the "Le Cycle" game.
 
 ---
 
@@ -57,7 +66,7 @@ _This roadmap tracks the key milestones, open tasks, and contribution opportunit
 - [ ] Collect, review, and share experimentation reports
 
 ### **Governance & Best Practices**
-- [ ] Publish and maintain CODE_OF_CONDUCT and GOVERNANCE files
+- [x] Publish CODE_OF_CONDUCT and GOVERNANCE files
 - [ ] Define issue/PR labels for contributions
 - [ ] Maintain open, respectful, and inclusive collaboration
 

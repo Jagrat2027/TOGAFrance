@@ -40,7 +40,7 @@ The TOGAFrance method adapts the classic TOGAF ADM into a **human-centered, iter
 Each phase serves a clear purpose and leaves tangible, shareable deliverables.  
 Here is how TOGAFrance interprets the key steps of the cycle:
 
-![Cycle ADM TOGAFrance](../medias/images/Cycle%20ADM%20TOGAFrance%20(Anglais).1.png)
+![Cycle ADM TOGAFrance](../medias/images/Cycle%20ADM%20TOGAFrance%20%28Anglais%29.1.png)
 
 ---
 

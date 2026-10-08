@@ -44,6 +44,9 @@ Files included:
 - **10-appendices**  
   Appendices, templates, sources, supplementary documents.
 
+- **[11-human-indicators](./11-human-indicators.md)**  
+  Catalogue of indicators that measure what people actually live through, with their protocol.
+
 ---
 
 ## 📝 How to Use

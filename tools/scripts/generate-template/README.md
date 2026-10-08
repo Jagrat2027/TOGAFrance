@@ -1,6 +1,6 @@
 # 🧩 Script `generate-template`
 
-This script is used to **automatically generate standardized templates** for the official TOGAFrance deliverables, based on the document structures defined in [`./livrables`](../../livrables).
+This script is used to **automatically generate standardized templates** for the official TOGAFrance deliverables, based on the document structures defined in [`/livrables`](../../../livrables).
 
 It allows contributors to create **empty but structured files** ready to be filled in, in various formats such as Markdown (`.md`), Word (`.docx`), or Excel (`.xlsx`).
 
@@ -8,7 +8,7 @@ It allows contributors to create **empty but structured files** ready to be fill
 
 ## 📁 Reference: `./livrables` folder
 
-The [`./livrables`](../../livrables) directory contains the **full specification** of TOGAFrance deliverables: diagnostic reports, action plans, feedback reports, etc.
+The [`/livrables`](../../../livrables) directory contains the **full specification** of TOGAFrance deliverables: diagnostic reports, action plans, feedback reports, etc.
 
 This script automates the creation of working templates for those documents, in order to:
 

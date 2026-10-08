@@ -1,6 +1,6 @@
 # 🧩 Script `generate-template`
 
-Ce script permet de **générer automatiquement les modèles de livrables TOGAFrance** à partir des structures définies dans le dossier [`./livrables`](../../livrables).
+Ce script permet de **générer automatiquement les modèles de livrables TOGAFrance** à partir des structures définies dans le dossier [`/livrables`](../../../livrables).
 
 Il s'agit d'un outil de production rapide de **fichiers vides mais structurés**, prêts à être remplis par les contributeurs, dans différents formats : Markdown (`.md`), Word (`.docx`), Excel (`.xlsx`).
 
@@ -8,7 +8,7 @@ Il s'agit d'un outil de production rapide de **fichiers vides mais structurés**
 
 ## 📁 Référence : dossier `./livrables`
 
-Le dossier [`./livrables`](../../livrables) contient la **description complète** des livrables attendus : diagnostics, plans d’action, rapports de retour, etc.
+Le dossier [`/livrables`](../../../livrables) contient la **description complète** des livrables attendus : diagnostics, plans d’action, rapports de retour, etc.
 
 Le script `generate-template.py` propose une **version automatisée** de ces squelettes, pour :
 

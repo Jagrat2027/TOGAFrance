@@ -134,7 +134,7 @@ TOGAFrance n’est pas un programme de techniciens : il est fait pour tous ceux
 Voici le cycle de transformation civique tel qu’il est interprété dans la méthode TOGAFrance.  
 Inspiré du cadre TOGAF®, il recentre chaque phase sur les **exigences citoyennes**, dans un processus itératif, lisible et reproductible.
 
-![Cycle ADM TOGAFrance (Français)](<./medias/images/Cycle%20ADM%20TOGAFrance%20(Français).1.png>)
+![Cycle ADM TOGAFrance (Français)](./medias/images/Cycle%20ADM%20TOGAFrance%20%28Franc%CC%A7ais%29.1.png)
 
 ---
 

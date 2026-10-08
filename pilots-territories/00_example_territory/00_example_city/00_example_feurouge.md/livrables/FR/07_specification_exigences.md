@@ -19,15 +19,18 @@ Liste et détail des exigences fonctionnelles et non-fonctionnelles à respecter
 
 ## c) Liste structurée des exigences
 
-| Exigence                                 | Type              | Priorité    | Validation           |
-| ---------------------------------------- | ----------------- | ----------- | -------------------- |
-| Arrêt du trafic sur bouton poussoir      | Fonctionnelle     | Obligatoire | Test technique       |
-| Signal sonore pour PMR                   | Non-fonctionnelle | Souhaitée   | Avis usager PMR      |
-| Consommation < 50 kWh/an                 | Non-fonctionnelle | Obligatoire | Mesure fournisseur   |
-| Installation hors temps scolaire         | Organisationnelle | Obligatoire | Planning validé      |
-| Notice en langage clair                  | TOGAFrance        | Souhaitée   | Vérification parents |
-| Accessibilité PMR                        | Légale            | Obligatoire | Contrôle conformité  |
-| Rétrocompatibilité (remplacement facile) | Technique         | Optionnelle | Revue fournisseur    |
+| ID     | Exigence                                 | Type              | Priorité    | Validation           |
+| ------ | ---------------------------------------- | ----------------- | ----------- | -------------------- |
+| EX-01 | Arrêt du trafic sur bouton poussoir      | Fonctionnelle     | Obligatoire | Test technique       |
+| EX-02 | Signal sonore pour PMR                   | Non-fonctionnelle | Souhaitée   | Avis usager PMR      |
+| EX-03 | Consommation < 50 kWh/an                 | Non-fonctionnelle | Obligatoire | Mesure fournisseur   |
+| EX-04 | Installation hors temps scolaire         | Organisationnelle | Obligatoire | Planning validé      |
+| EX-05 | Notice en langage clair                  | TOGAFrance        | Souhaitée   | Vérification parents |
+| EX-06 | Accessibilité PMR                        | Légale            | Obligatoire | Contrôle conformité  |
+| EX-07 | Rétrocompatibilité (remplacement facile) | Technique         | Optionnelle | Revue fournisseur    |
+| EX-08 | Durée de traversée adaptée aux PMR       | Fonctionnelle     | Obligatoire | Test avec usager PMR |
+
+EX-08 a été ajoutée le 01/09/25, après le retour d’une famille PMR (cahier de veille, livrable 14) : c’est la boucle de gestion des exigences du cycle ADM.
 
 ## d) Critères de validation associés
 
@@ -48,5 +51,6 @@ Liste et détail des exigences fonctionnelles et non-fonctionnelles à respecter
 ## g) Historique des modifications
 
 - 2025-07-07 : Première version rédigée après réunion publique.
+- 2025-09-01 : Ajout de EX-08 après retour d’expérience ; identifiants ajoutés pour la traçabilité.
 
 ---

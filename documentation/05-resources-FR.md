@@ -12,9 +12,9 @@ TOGAFrance propose un ensemble croissant de **ressources ouvertes et modulaires*
 
 | Ressource                         | Description                                                        |
 |----------------------------------|--------------------------------------------------------------------|
-| [Guide pratique TOGAFrance (PDF)](../documentation/TOGAFrance_Livret_Pratique.pdf) | Document fondateur de la méthode |
+| [Guide pratique TOGAFrance (PDF)](../medias/TOGAFrance_Livret_Pratique.pdf) | Document fondateur de la méthode |
 | [Vision & Principes fondateurs](./02-vision.md)                 | Boussole éthique de l’ensemble |
-| [La méthode TOGAFrance](./03-methode.md)                        | Cycle, étapes, livrables, posture |
+| [La méthode TOGAFrance](./03-method-FR.md)                        | Cycle, étapes, livrables, posture |
 | [Programme J-2027 – Site](https://www.jagrat.fr/programme-2027/) | Référence politique et philosophique du cadre |
 | [Programme 2027 – GitHub](https://github.com/Jagrat2027/Programme2027) | Version éditable et traçable du programme |
 
@@ -22,7 +22,7 @@ TOGAFrance propose un ensemble croissant de **ressources ouvertes et modulaires*
 
 ## 🧰 2. Modèles et exemples
 
-Disponibles dans les dossiers [`/examples`](../examples) et [`/tools/templates`](../tools/templates) :
+Disponibles dans les dossiers [`/pilots-territories/examples-pilots`](../pilots-territories/examples-pilots) et [`/tools/templates`](../tools/templates) :
 
 | Document                      | Formats disponibles         | Remarques                               |
 |------------------------------|-----------------------------|------------------------------------------|
@@ -39,10 +39,10 @@ Tous les modèles sont conçus pour être lisibles, réutilisables et faciles à
 
 TOGAFrance s’appuie sur une adaptation humaine et simplifiée du **cycle ADM (Architecture Development Method)** de TOGAF, en 5 étapes vivantes :
 
-![Cycle ADM TOGAFrance](../medias/images/ADM_TOGAFrance.png)
+![Cycle ADM TOGAFrance](../medias/images/Cycle%20ADM%20TOGAFrance%20%28Franc%CC%A7ais%29.1.png)
 
 
-Chaque phase donne lieu à des livrables définis selon un **cadre de contenu inspiré de TOGAF** (voir [Chapitre 3](./03-methode.md)).
+Chaque phase donne lieu à des livrables définis selon un **cadre de contenu inspiré de TOGAF** (voir [Chapitre 3](./03-method-FR.md)).
 
 > Pour comprendre la structure de chaque livrable, consultez les modèles ou le glossaire.
 
@@ -104,7 +104,7 @@ Chaque outil contient une documentation minimale ou un en-tête commenté.
 | Dossier              | Contenu                                        |
 |----------------------|------------------------------------------------|
 | `/documentation`     | Chapitres du guide, lexique, FAQ              |
-| `/examples`          | Fichiers types et retours de territoires       |
+| `/pilots-territories/examples-pilots`          | Fichiers types et retours de territoires       |
 | `/tools/templates`   | Modèles réutilisables                          |
 | `/medias`            | Diagrammes, infographies, logos                |
 
@@ -116,7 +116,7 @@ Tous les fichiers suivent une convention de nommage avec versions bilingues (`-F
 
 | Ressource                        | Statut            |
 |----------------------------------|--------------------|
-| [Lexique](./08-glossaire.md)     | ✅ Ouvert & vivant |
+| [Lexique](./08-glossary-FR.md)     | ✅ Ouvert & vivant |
 | [FAQ](./09-faq.md)               | ✅ Disponible       |
 | [Issues GitHub](https://github.com/Jagrat2027/TOGAFrance/issues) | ✅ Actives |
 | Espaces communautaires (Discord, forums) | 🚧 En préparation  |
@@ -152,4 +152,4 @@ Vous pouvez les réutiliser, adapter, diffuser — à condition de citer la sour
 
 ---
 
-_Prochain chapitre : [06-contribuer.md](./06-contribuer.md)_
+_Prochain chapitre : [06-contributing-FR.md](./06-contributing-FR.md)_

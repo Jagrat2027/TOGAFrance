@@ -44,6 +44,9 @@ Voici la liste :
 - **10-appendices**  
   Annexes, modèles, sources, documents complémentaires.
 
+- **[11-indicateurs-humains](./11-indicateurs-humains-FR.md)**  
+  Catalogue d’indicateurs qui mesurent ce que vivent les personnes, avec leur protocole.
+
 ---
 
 ## 📝 Conseils d’utilisation
